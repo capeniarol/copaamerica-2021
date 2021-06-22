@@ -6,4 +6,4 @@
  - Full matches online videos of the Copa America 2021
  - 100% Covered matches
 
-<center> ![MARCiO](+.png)</center>
+![MARCiO](+.png)
