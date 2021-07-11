@@ -1,0 +1,24 @@
+
+# Site Settings
+url: "https://copaamerica-2021.tk" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Copa America 2021" # the name of your site, e.g. ACME Corp.
+lang: "en-US"
+locale: "en-US"
+repository: "capeniarol/copaamerica-2021"
+description: "Full matches online videos of the Copa America 2021"
+name: "capeniarol"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+
+exclude: []
+
+include:
+  - node_modules

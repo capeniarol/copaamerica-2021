@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    {%- feed_meta -%}
+    {%- seo -%}
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=60e5673da5ae4f001925423d&product=inline-share-buttons" async="async"></script>
+  </head>
+  <body>
+
+    <style>
+
+    #seccion1 {
+        background-color: #e3dbdbfc;
+      }
+
+    </style>
+
+    {% include menu.html %}
+
+    {% include info-banner.html %}
+
+      {{ content }}
+
+    <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+	  <script src="{{'/node_modules/@popperjs/core/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
+	  <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+  </body>
+</html>
