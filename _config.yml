@@ -14,10 +14,8 @@ plugins:
   - jekyll-seo-tag
 
 sass:
-    load_paths:
-        - _sass
-        - node_modules
-
+    sass_dir: _sass
+    
 exclude: []
 
 include:
