@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/capeniarol/copaamerica-2021/issues"
   },
-  "homepage": "https://github.com/capeniarol/copaamerica-2021#readme",
+  "homepage": "https://github.com/capeniarol/copaamerica-2021",
   "dependencies": {
     "@popperjs/core": "^2.9.2",
     "bootstrap": "^5.0.2",

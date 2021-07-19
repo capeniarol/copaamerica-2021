@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Copa America 2021 semifinal - Brasil vs Peru - Full Match!"
+title: "Copa America 2021 Final - Argentina vs Brasil - Full Match!"
 description: "Full Match!"
-tags: "copa, america, 2021, brasil, peru, semifinal, online, full, match"
-name: "2021-07-05-copa-america-2021-semifinal---brazil-vs-peru---full-match.md"
+tags: "copa, america, 2021, argentina, brasil, final, online, full, match"
+name: "2021-07-11-copa-america-2021-final---argentina-vs-brazil.md"
 ---
 
 <style>
@@ -46,13 +46,13 @@ name: "2021-07-05-copa-america-2021-semifinal---brazil-vs-peru---full-match.md"
               </td>
               <center>
                 <td>
-                  <img src="/assets/images/bra.png" style="align: center;width: 45px;">
+                  <img src="/assets/images/arg.png" style="align: center;width: 45px;">
                 </td>
                 <td>
                   <img src="/assets/images/logo.copa.america.2021.png" Alt="Copa America 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;">
                 </td>
                 <td>
-                  <img src="/assets/images/per.webp" style="width: 45px;">
+                  <img src="/assets/images/bra.png" style="width: 45px;">
                 </td>
               </center>
 
@@ -68,13 +68,14 @@ name: "2021-07-05-copa-america-2021-semifinal---brazil-vs-peru---full-match.md"
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h2>Copa America 2021 semifinal - Brazil vs Peru - Full Match!</h2><br><br>
+        <h2>Copa America 2021 Final - Argentina vs Brazil - Full Match!</h2><br><br>
         <div class="col-sm-12 iframe-container">
-          <iframe src="//ok.ru/videoembed/2683932773043" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
+          <iframe src="//ok.ru/videoembed/2711695329971" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
         </div>
       </div>
     </div>
   </section>
+
 
 
   <div class="row" style="padding-top: 30px;padding-bottom: 30px;">

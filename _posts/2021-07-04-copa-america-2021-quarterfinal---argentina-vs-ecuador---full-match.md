@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Copa America 2021 semifinal - Brasil vs Peru - Full Match!"
+title: "Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match!"
 description: "Full Match!"
-tags: "copa, america, 2021, brasil, peru, semifinal, online, full, match"
-name: "2021-07-05-copa-america-2021-semifinal---brazil-vs-peru---full-match.md"
+tags: "copa, america, 2021, argentina, ecuador, quarterfinal, online, full, match"
+name: "2021-07-04-copa-america-2021-quarterfinal---argentina-vs-ecuador---full-match.md"
 ---
 
 <style>
@@ -46,13 +46,13 @@ name: "2021-07-05-copa-america-2021-semifinal---brazil-vs-peru---full-match.md"
               </td>
               <center>
                 <td>
-                  <img src="/assets/images/bra.png" style="align: center;width: 45px;">
+                  <img src="/assets/images/arg.png" Alt="Argentina" style="align: center;width: 45px;">
                 </td>
                 <td>
                   <img src="/assets/images/logo.copa.america.2021.png" Alt="Copa America 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;">
                 </td>
                 <td>
-                  <img src="/assets/images/per.webp" style="width: 45px;">
+                  <img src="/assets/images/ecu.png" Alt="Ecuador" style="width: 45px;">
                 </td>
               </center>
 
@@ -68,9 +68,9 @@ name: "2021-07-05-copa-america-2021-semifinal---brazil-vs-peru---full-match.md"
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h2>Copa America 2021 semifinal - Brazil vs Peru - Full Match!</h2><br><br>
+        <h2>Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match!</h2><br><br>
         <div class="col-sm-12 iframe-container">
-          <iframe src="//ok.ru/videoembed/2683932773043" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
+          <iframe src="//ok.ru/videoembed/2711858973363" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
         </div>
       </div>
     </div>

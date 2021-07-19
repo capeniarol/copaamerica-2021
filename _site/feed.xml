@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-07-12T20:35:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Copa America 2021</title><subtitle>Full matches online videos of the Copa America 2021</subtitle><entry><title type="html">Copa America 2021 3rd place - Colombia vs Peru - Full Match!</title><link href="http://localhost:4000/2021/07/10/copa-america-2021-3rd-place-colombia-vs-peru.html" rel="alternate" type="text/html" title="Copa America 2021 3rd place - Colombia vs Peru - Full Match!" /><published>2021-07-10T00:00:00+02:00</published><updated>2021-07-10T00:00:00+02:00</updated><id>http://localhost:4000/2021/07/10/copa-america-2021-3rd-place---colombia-vs-peru</id><content type="html" xml:base="http://localhost:4000/2021/07/10/copa-america-2021-3rd-place-colombia-vs-peru.html">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-07-18T20:12:02+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Copa America 2021</title><subtitle>Full matches online videos of the Copa America 2021</subtitle><entry><title type="html">Copa America 2021 Final - Argentina vs Brasil - Full Match!</title><link href="http://localhost:4000/2021/07/11/copa-america-2021-final-argentina-vs-brasil.html" rel="alternate" type="text/html" title="Copa America 2021 Final - Argentina vs Brasil - Full Match!" /><published>2021-07-11T00:00:00+02:00</published><updated>2021-07-11T00:00:00+02:00</updated><id>http://localhost:4000/2021/07/11/copa-america-2021-final---argentina-vs-brasil</id><content type="html" xml:base="http://localhost:4000/2021/07/11/copa-america-2021-final-argentina-vs-brasil.html">&lt;style&gt;
+
+  .seccion-banner {
+    background-color: #001b68cc;
+    padding: 10px;
+  }
+
+  .iframe-container {
+    overflow: hidden;
+    /* 16:9 aspect ratio */
+    padding-top: 56.25%;
+    position: relative;
+  }
+
+  .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+&lt;/style&gt;
+
+&lt;div class=&quot;container&quot; style=&quot;background-color: #fff;padding-top: 35px;&quot;&gt;
+
+
+   &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12&quot; style=&quot;background: #ffcc00;&quot;&gt;
+
+          &lt;section class=&quot;section-banner container&quot; style=&quot;background: #ffcc00;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;&quot;&gt;
+            &lt;tr style=&quot;display: inline-block;&quot;&gt;
+              &lt;td&gt;
+                &lt;img src=&quot;/assets/images/CONMEBOL.png&quot; style=&quot;float: left;width: 60px;&quot; /&gt;
+              &lt;/td&gt;
+              &lt;center&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/arg.png&quot; style=&quot;align: center;width: 45px;&quot; /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/logo.copa.america.2021.png&quot; alt=&quot;Copa America 2021&quot; style=&quot;height: 60px;padding-left: 15px;padding-right: 15px;&quot; /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/bra.png&quot; style=&quot;width: 45px;&quot; /&gt;
+                &lt;/td&gt;
+              &lt;/center&gt;
+
+                &lt;!--&lt;img src=&quot;https://cdn.sportcast.life/assets/img/tables/493.gif&quot; style=&quot;width: 60px;&quot;&gt; --&gt;
+
+
+            &lt;/tr&gt;
+          &lt;/section&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;section&gt;
+    &lt;div class=&quot;container&quot; style=&quot;padding-top: 35px;padding-bottom: 35px;&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;h2&gt;Copa America 2021 Final - Argentina vs Brazil - Full Match!&lt;/h2&gt;&lt;br /&gt;&lt;br /&gt;
+        &lt;div class=&quot;col-sm-12 iframe-container&quot;&gt;
+          &lt;iframe src=&quot;//ok.ru/videoembed/2711695329971&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;!-- &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//ok.ru/videoembed/2685580413619&quot; frameborder=&quot;0&quot; allow=&quot;autoplay&quot; allowfullscreen&gt;&lt;/iframe&gt; //ok.ru/videoembed/2683932773043 --&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+
+
+  &lt;div class=&quot;row&quot; style=&quot;padding-top: 30px;padding-bottom: 30px;&quot;&gt;
+    &lt;div class=&quot;col-sm-12&quot; style=&quot;background-color: #ffcc00;&quot;&gt;
+      &lt;div class=&quot;section-banner&quot; style=&quot;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;&quot;&gt;
+        &lt;tr style=&quot;display: inline-block;padding: 5px;&quot;&gt;
+          &lt;td&gt;
+            &lt;span style=&quot;font-weight: 900;display: inline-block;&quot;&gt;Share: &lt;/span&gt;
+          &lt;td&gt;
+          &lt;td&gt;
+            &lt;div class=&quot;sharethis-inline-share-buttons&quot;&gt;&lt;/div&gt;
+          &lt;/td&gt;
+&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="copa," /><category term="america," /><category term="2021," /><category term="argentina," /><category term="brasil," /><category term="final," /><category term="online," /><category term="full," /><category term="match" /><summary type="html"></summary></entry><entry><title type="html">Copa America 2021 3rd place - Colombia vs Peru - Full Match!</title><link href="http://localhost:4000/2021/07/10/copa-america-2021-3rd-place-colombia-vs-peru.html" rel="alternate" type="text/html" title="Copa America 2021 3rd place - Colombia vs Peru - Full Match!" /><published>2021-07-10T00:00:00+02:00</published><updated>2021-07-10T00:00:00+02:00</updated><id>http://localhost:4000/2021/07/10/copa-america-2021-3rd-place---colombia-vs-peru</id><content type="html" xml:base="http://localhost:4000/2021/07/10/copa-america-2021-3rd-place-colombia-vs-peru.html">&lt;style&gt;
 
   .seccion-banner {
     background-color: #001b68cc;
@@ -217,7 +297,7 @@
   &lt;section&gt;
     &lt;div class=&quot;container&quot; style=&quot;padding-top: 35px;padding-bottom: 35px;&quot;&gt;
       &lt;div class=&quot;row&quot;&gt;
-        &lt;h2&gt;Copa America 2021 semifinal - Brasil vs Peru - Full Match!&lt;/h2&gt;&lt;br /&gt;&lt;br /&gt;
+        &lt;h2&gt;Copa America 2021 semifinal - Brazil vs Peru - Full Match!&lt;/h2&gt;&lt;br /&gt;&lt;br /&gt;
         &lt;div class=&quot;col-sm-12 iframe-container&quot;&gt;
           &lt;iframe src=&quot;//ok.ru/videoembed/2683932773043&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;!-- &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//ok.ru/videoembed/2685580413619&quot; frameborder=&quot;0&quot; allow=&quot;autoplay&quot; allowfullscreen&gt;&lt;/iframe&gt; //ok.ru/videoembed/2683932773043 --&gt;
         &lt;/div&gt;
@@ -236,4 +316,162 @@
           &lt;td&gt;
             &lt;div class=&quot;sharethis-inline-share-buttons&quot;&gt;&lt;/div&gt;
           &lt;/td&gt;
-&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="copa," /><category term="america," /><category term="2021," /><category term="brasil," /><category term="peru," /><category term="semifinal," /><category term="online," /><category term="full," /><category term="match" /><summary type="html"></summary></entry></feed>
+&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="copa," /><category term="america," /><category term="2021," /><category term="brasil," /><category term="peru," /><category term="semifinal," /><category term="online," /><category term="full," /><category term="match" /><summary type="html"></summary></entry><entry><title type="html">Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match!</title><link href="http://localhost:4000/2021/07/04/copa-america-2021-quarterfinal-argentina-vs-ecuador-full-match.html" rel="alternate" type="text/html" title="Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match!" /><published>2021-07-04T00:00:00+02:00</published><updated>2021-07-04T00:00:00+02:00</updated><id>http://localhost:4000/2021/07/04/copa-america-2021-quarterfinal---argentina-vs-ecuador---full-match</id><content type="html" xml:base="http://localhost:4000/2021/07/04/copa-america-2021-quarterfinal-argentina-vs-ecuador-full-match.html">&lt;style&gt;
+
+  .seccion-banner {
+    background-color: #001b68cc;
+    padding: 10px;
+  }
+
+  .iframe-container {
+    overflow: hidden;
+    /* 16:9 aspect ratio */
+    padding-top: 56.25%;
+    position: relative;
+  }
+
+  .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+&lt;/style&gt;
+
+&lt;div class=&quot;container&quot; style=&quot;background-color: #fff;padding-top: 35px;&quot;&gt;
+
+
+   &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12&quot; style=&quot;background: #ffcc00;&quot;&gt;
+
+          &lt;section class=&quot;section-banner container&quot; style=&quot;background: #ffcc00;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;&quot;&gt;
+            &lt;tr style=&quot;display: inline-block;&quot;&gt;
+              &lt;td&gt;
+                &lt;img src=&quot;/assets/images/CONMEBOL.png&quot; style=&quot;float: left;width: 60px;&quot; /&gt;
+              &lt;/td&gt;
+              &lt;center&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/arg.png&quot; alt=&quot;Argentina&quot; style=&quot;align: center;width: 45px;&quot; /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/logo.copa.america.2021.png&quot; alt=&quot;Copa America 2021&quot; style=&quot;height: 60px;padding-left: 15px;padding-right: 15px;&quot; /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/ecu.png&quot; alt=&quot;Ecuador&quot; style=&quot;width: 45px;&quot; /&gt;
+                &lt;/td&gt;
+              &lt;/center&gt;
+
+                &lt;!--&lt;img src=&quot;https://cdn.sportcast.life/assets/img/tables/493.gif&quot; style=&quot;width: 60px;&quot;&gt; --&gt;
+
+
+            &lt;/tr&gt;
+          &lt;/section&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;section&gt;
+    &lt;div class=&quot;container&quot; style=&quot;padding-top: 35px;padding-bottom: 35px;&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;h2&gt;Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match!&lt;/h2&gt;&lt;br /&gt;&lt;br /&gt;
+        &lt;div class=&quot;col-sm-12 iframe-container&quot;&gt;
+          &lt;iframe src=&quot;//ok.ru/videoembed/2711858973363&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;!-- &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//ok.ru/videoembed/2685580413619&quot; frameborder=&quot;0&quot; allow=&quot;autoplay&quot; allowfullscreen&gt;&lt;/iframe&gt; //ok.ru/videoembed/2683932773043 --&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+
+  &lt;div class=&quot;row&quot; style=&quot;padding-top: 30px;padding-bottom: 30px;&quot;&gt;
+    &lt;div class=&quot;col-sm-12&quot; style=&quot;background-color: #ffcc00;&quot;&gt;
+      &lt;div class=&quot;section-banner&quot; style=&quot;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;&quot;&gt;
+        &lt;tr style=&quot;display: inline-block;padding: 5px;&quot;&gt;
+          &lt;td&gt;
+            &lt;span style=&quot;font-weight: 900;display: inline-block;&quot;&gt;Share: &lt;/span&gt;
+          &lt;td&gt;
+          &lt;td&gt;
+            &lt;div class=&quot;sharethis-inline-share-buttons&quot;&gt;&lt;/div&gt;
+          &lt;/td&gt;
+&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="copa," /><category term="america," /><category term="2021," /><category term="argentina," /><category term="ecuador," /><category term="quarterfinal," /><category term="online," /><category term="full," /><category term="match" /><summary type="html"></summary></entry><entry><title type="html">Copa America 2021 quarterfinal - Uruguay vs Colombia - Full Match!</title><link href="http://localhost:4000/2021/07/03/copa-america-2021-quarterfinal-uruguay-vs-colombia-full-match.html" rel="alternate" type="text/html" title="Copa America 2021 quarterfinal - Uruguay vs Colombia - Full Match!" /><published>2021-07-03T00:00:00+02:00</published><updated>2021-07-03T00:00:00+02:00</updated><id>http://localhost:4000/2021/07/03/copa-america-2021-quarterfinal---uruguay-vs-colombia---full-match</id><content type="html" xml:base="http://localhost:4000/2021/07/03/copa-america-2021-quarterfinal-uruguay-vs-colombia-full-match.html">&lt;style&gt;
+
+  .seccion-banner {
+    background-color: #001b68cc;
+    padding: 10px;
+  }
+
+  .iframe-container {
+    overflow: hidden;
+    /* 16:9 aspect ratio */
+    padding-top: 56.25%;
+    position: relative;
+  }
+
+  .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+&lt;/style&gt;
+
+&lt;div class=&quot;container&quot; style=&quot;background-color: #fff;padding-top: 35px;&quot;&gt;
+
+
+   &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12&quot; style=&quot;background: #ffcc00;&quot;&gt;
+
+          &lt;section class=&quot;section-banner container&quot; style=&quot;background: #ffcc00;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;&quot;&gt;
+            &lt;tr style=&quot;display: inline-block;&quot;&gt;
+              &lt;td&gt;
+                &lt;img src=&quot;/assets/images/CONMEBOL.png&quot; style=&quot;float: left;width: 60px;&quot; /&gt;
+              &lt;/td&gt;
+              &lt;center&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/uru.webp&quot; alt=&quot;Uruguay&quot; style=&quot;align: center;width: 45px;&quot; /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/logo.copa.america.2021.png&quot; alt=&quot;Copa America 2021&quot; style=&quot;height: 60px;padding-left: 15px;padding-right: 15px;&quot; /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                  &lt;img src=&quot;/assets/images/col.webp&quot; alt=&quot;Colombia&quot; style=&quot;width: 45px;&quot; /&gt;
+                &lt;/td&gt;
+              &lt;/center&gt;
+
+                &lt;!--&lt;img src=&quot;https://cdn.sportcast.life/assets/img/tables/493.gif&quot; style=&quot;width: 60px;&quot;&gt; --&gt;
+
+
+            &lt;/tr&gt;
+          &lt;/section&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;section&gt;
+    &lt;div class=&quot;container&quot; style=&quot;padding-top: 35px;padding-bottom: 35px;&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;h2&gt;Copa America 2021 quarterfinal - Uruguay vs Colombia - Full Match!&lt;/h2&gt;&lt;br /&gt;&lt;br /&gt;
+        &lt;div class=&quot;col-sm-12 iframe-container&quot;&gt;
+          &lt;iframe src=&quot;//ok.ru/videoembed/2711825746611&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;!-- &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//ok.ru/videoembed/2685580413619&quot; frameborder=&quot;0&quot; allow=&quot;autoplay&quot; allowfullscreen&gt;&lt;/iframe&gt; //ok.ru/videoembed/2683932773043 --&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+
+  &lt;div class=&quot;row&quot; style=&quot;padding-top: 30px;padding-bottom: 30px;&quot;&gt;
+    &lt;div class=&quot;col-sm-12&quot; style=&quot;background-color: #ffcc00;&quot;&gt;
+      &lt;div class=&quot;section-banner&quot; style=&quot;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;&quot;&gt;
+        &lt;tr style=&quot;display: inline-block;padding: 5px;&quot;&gt;
+          &lt;td&gt;
+            &lt;span style=&quot;font-weight: 900;display: inline-block;&quot;&gt;Share: &lt;/span&gt;
+          &lt;td&gt;
+          &lt;td&gt;
+            &lt;div class=&quot;sharethis-inline-share-buttons&quot;&gt;&lt;/div&gt;
+          &lt;/td&gt;
+&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="copa," /><category term="america," /><category term="2021," /><category term="uruguay," /><category term="colombia," /><category term="quarterfinal," /><category term="online," /><category term="full," /><category term="match" /><summary type="html"></summary></entry></feed>
