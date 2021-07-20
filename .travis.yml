@@ -1,5 +1,5 @@
 # .travis.yml
-# This file should be at the root of your project it is @the_root_of_the_project
+# This file should be at the root of your project  --- It is @the_root_of_the_project
 language: ruby
 cache: bundler
 before_install:
