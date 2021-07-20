@@ -23,7 +23,7 @@ plugins:
 sass:
     sass_dir: _sass
 
-exclude: []
+exclude: [vendor]
 
 include:
   - node_modules
