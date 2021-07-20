@@ -9,13 +9,20 @@ repository: "capeniarol/copaamerica-2021"
 description: "Full matches online videos of the Copa America 2021"
 name: "capeniarol"
 
+# _config.yml
+algolia:
+   application_id: PLSEOX36ZZ
+   index_name: dev_copaamerica-2021
+   search_only_api_key: 53482a03c0ecf7ab4593564ae418477d
+
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 sass:
     sass_dir: _sass
-    
+
 exclude: []
 
 include:
