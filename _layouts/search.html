@@ -10,14 +10,15 @@ layout: default
 
   {{ content }}
 
-  <h1 class="page-heading">Posts</h1>
+  <!--<h1 class="page-heading">Posts</h1>-->
+  <h2>Search for a team</h2>
 
-  <div id="search-searchbar"></div>
+  <!-- <div id="search-searchbar"></div> -->
 
-  <div class="post-list" id="search-hits">
+  <!--<div class="post-list" id="search-hits">
     {% for post in site.posts %}
       <div class="post-item">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <!-- {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <h2>
@@ -26,10 +27,27 @@ layout: default
           </a>
         </h2>
 
-        <div class="post-snippet">{{ post.excerpt }}</div>
+        <div class="post-snippet">{{ post.description }}</div>
       </div>
     {% endfor %}
-  </div>
+  </div> -->
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div id="search-hits" class="post-list">
+        {% for post in site.posts %}
+        <h2>
+          <a href="{{ post.url }}">
+            <span>{{ post.title }}</span>
+          </a>
+        </h2>
+        <p>{{ post.description }}</p>
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
 
   {% include algolia.html %}
 
