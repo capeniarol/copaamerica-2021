@@ -1,4 +1,4 @@
-I"Å
+I"ô
 <style>
 
   .seccion-banner {
@@ -37,13 +37,13 @@
               </td>
               <center>
                 <td>
-                  <img src="/assets/images/bra.png" style="align: center;width: 45px;" />
+                  <img src="/assets/images/bra.png" alt="Brazil" style="align: center;width: 45px;" />
                 </td>
                 <td>
                   <img src="/assets/images/logo.copa.america.2021.png" alt="Copa America 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;" />
                 </td>
                 <td>
-                  <img src="/assets/images/per.webp" style="width: 45px;" />
+                  <img src="/assets/images/chi.webp" alt="Chile" style="width: 45px;" />
                 </td>
               </center>
 
@@ -59,9 +59,9 @@
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h2>Copa America 2021 semifinal - Brasil vs Peru - Full Match!</h2><br /><br />
+        <h2>Copa America quarterfinal - Brazil vs Chile - Full Match!</h2><br /><br />
         <div class="col-sm-12 iframe-container">
-          <iframe src="//ok.ru/videoembed/2683932773043" allowfullscreen=""></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
+          <iframe src="//ok.ru/videoembed/2739354798771" allowfullscreen=""></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
         </div>
       </div>
     </div>
