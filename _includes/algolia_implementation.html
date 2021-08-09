@@ -20,7 +20,7 @@ search.addWidgets([
   instantsearch.widgets.hits({
     container: '#hits',
     transformItems: items =>
-      items.map(item => ({ ...item, date: item.game_started.toDateString() })),
+      items.map(item => ({ ...item, date: item.new Date(game_started).toDateString() })),
     templates: {
       item: data => `
       <div>

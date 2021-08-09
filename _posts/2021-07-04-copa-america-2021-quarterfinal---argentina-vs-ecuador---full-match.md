@@ -4,6 +4,7 @@ title: "Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match!"
 description: "Full Match!"
 tags: "copa, america, 2021, argentina, ecuador, quarterfinal, online, full, match"
 game_started: 2021-07-02T21:00+00:00
+date: 2021-07-02T21:00+00:00
 name: "2021-07-02-copa-america-2021-quarterfinal---argentina-vs-ecuador---full-match.md"
 ---
 

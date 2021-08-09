@@ -4,6 +4,7 @@ title: "Copa America 2021 quarterfinal - Uruguay vs Colombia - Full Match!"
 description: "Full Match!"
 tags: "copa, america, 2021, uruguay, colombia, quarterfinal, online, full, match"
 game_started: 2021-07-03T00:00+00:00
+date: 2021-07-03T00:00+00:00
 name: "2021-07-03-copa-america-2021-quarterfinal---uruguay-vs-colombia---full-match.md"
 ---
 
