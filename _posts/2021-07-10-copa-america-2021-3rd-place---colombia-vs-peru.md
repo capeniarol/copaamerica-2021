@@ -3,6 +3,7 @@ layout: default
 title: "Copa America 2021 3rd place - Colombia vs Peru - Full Match!"
 description: "Full Match!"
 tags: "copa, america, 2021, peru, colombia, 3rd, place, online, full, match"
+game_started: 2021-07-10T00:00+00:00
 name: "2021-07-10-copa-america-2021-3rd-place---colombia-vs-peru.md"
 ---
 

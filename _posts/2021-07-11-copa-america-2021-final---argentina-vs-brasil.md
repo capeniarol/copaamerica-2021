@@ -3,6 +3,7 @@ layout: default
 title: "Copa America 2021 Final - Argentina vs Brasil - Full Match!"
 description: "Full Match!"
 tags: "copa, america, 2021, argentina, brasil, final, online, full, match"
+game_started: 2021-07-11T00:00+00:00
 name: "2021-07-11-copa-america-2021-final---argentina-vs-brazil.md"
 ---
 

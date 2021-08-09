@@ -3,6 +3,7 @@ layout: default
 title: "Copa America 2021 semifinal - Brasil vs Peru - Full Match!"
 description: "Full Match!"
 tags: "copa, america, 2021, brasil, peru, semifinal, online, full, match"
+game_started: 2021-07-05T23:00+00:00
 name: "2021-07-05-copa-america-2021-semifinal---brazil-vs-peru---full-match.md"
 ---
 

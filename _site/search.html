@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title> - Copa America 2021</title>
-    <link rel="stylesheet" href="/assets/css/main.css"><link type="application/atom+xml" rel="alternate" href="https://copaamerica-2021.tk/feed.xml" title="Copa America 2021" /><!-- Begin Jekyll SEO tag v2.7.1 -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous"><link type="application/atom+xml" rel="alternate" href="https://copaamerica-2021.tk/feed.xml" title="Copa America 2021" /><!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>Copa America 2021 | Full matches online videos of the Copa America 2021</title>
 <meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="Copa America 2021" />
@@ -22,6 +24,9 @@
 {"@type":"WebPage","url":"https://copaamerica-2021.tk/search.html","headline":"Copa America 2021","description":"Full matches online videos of the Copa America 2021","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=60ef049c003943001ce6e8b3&product=sop' async='async'></script>
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+
   </head>
   <body>
 
@@ -103,69 +108,54 @@
 
   <!--<h1 class="page-heading">Posts</h1>-->
       <h2>Search for a team</h2>
-      <div id="search-searchbar"></div>
-      <div id="search-hits"></div>
+      <div id="searchbox"></div>
+      <div id="hits"></div>
 
-  <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
+  <script>
+const searchClient = algoliasearch('PLSEOX36ZZ', '53482a03c0ecf7ab4593564ae418477d');
 
-<script>
 const search = instantsearch({
-  appId: 'PLSEOX36ZZ',
-  apiKey: '53482a03c0ecf7ab4593564ae418477d',
-  indexName: ''
+  indexName: 'copaamerica-2021',
+  searchClient,
 });
 
-const hitTemplate = function(hit) {
-  let date = '';
-  if (hit.date) {
-    date = moment.unix(hit.date).format('MMM D, YYYY');
-  }
-
-  let url = `${hit.url}#${hit.anchor}`;
-
-  const title = hit._highlightResult.title.value;
-
-  let breadcrumbs = '';
-  if (hit._highlightResult.headings) {
-    breadcrumbs = hit._highlightResult.headings.map(match => {
-      return `<span class="post-breadcrumb">${match.value}</span>`
-    }).join(' > ')
-  }
-
-  const content = hit._highlightResult.html.value;
-
-  return `
-    <div class="post-item">
-      <span class="post-meta">${date}</span>
-      <h2 itemprop="headline"><a class="post-link" href="${url}">${title}</a></h2>
-      <div class="post-snippet" itemprop="description">${content}</div>
-    </div>
-  `;
-}
 
 
-search.addWidget(
+
+search.addWidgets([
   instantsearch.widgets.searchBox({
-    container: '#search-searchbar',
+    container: '#searchbox',
     placeholder: 'Search into posts...',
     poweredBy: true // This is required if you're on the free Community plan
-  })
-);
+  }),
 
-search.addWidget(
+
   instantsearch.widgets.hits({
-    container: '#search-hits',
+    container: '#hits',
+    transformItems: items =>
+      items.map(item => ({ ...item, date: item.game_started.toDateString() })),
     templates: {
-      item: hitTemplate
+      item: data => `
+      <div>
+        <div class="hit-title">
+          <h4 itemprop="headline">
+            <a class="post-link" href="${data.url}">
+              ${data.title}
+            </a>
+          </h4>
+        </div>
+        <div class="hit-data">
+          Game started on:
+        </div>
+        <p>${data.description}</p>
+      </div>`
     }
   })
-);
+]);
 
 search.start();
 </script>
+
 
 <style>
 .ais-search-box {

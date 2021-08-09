@@ -3,6 +3,7 @@ layout: default
 title: "Copa America 2021 semifinal - Argentina vs Colombia - Full Match!"
 description: "Full Match!"
 tags: "copa, america, 2021, argentina, colombia, semifinal, online, full, match"
+game_started: 2021-07-07T01:00+00:00
 name: "2021-07-07-copa-america-2021-semifinal---argentina-vs-colombia.md"
 ---
 
