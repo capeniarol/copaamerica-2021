@@ -8,6 +8,9 @@ date: 2021-07-04T00:00+00:00
 name: "2021-07-02-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match.md"
 ---
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/sv_SE/sdk.js#xfbml=1&version=v11.0&appId=360550859009535&autoLogAppEvents=1" nonce="GWSoBacg"></script>
+
   {% include space.html %}
 
 <style>
@@ -103,5 +106,7 @@ name: "2021-07-02-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match
       </div>
     </div>
   </section>
+
+  <div class="fb-comments" data-href="http://copaamerica-2021.tk" data-width="100%" data-numposts="20"></div>
 
   {% include space.html %}
