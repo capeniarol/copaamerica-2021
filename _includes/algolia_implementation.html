@@ -12,15 +12,13 @@ const search = instantsearch({
 search.addWidgets([
   instantsearch.widgets.searchBox({
     container: '#searchbox',
-    placeholder: 'Search into posts...',
+    placeholder: 'Search for a team...',
     poweredBy: true // This is required if you're on the free Community plan
   }),
 
 
   instantsearch.widgets.hits({
     container: '#hits',
-    transformItems: items =>
-      items.map(item => ({ ...item, date: item.new Date(game_started).toDateString() })),
     templates: {
       item: data => `
       <div>
@@ -31,8 +29,8 @@ search.addWidgets([
             </a>
           </h4>
         </div>
-        <div class="hit-data">
-          {{#helpers.highlight}}Game started on:{{date}}{{/helpers.highlight}}
+        <div class="hit-date">
+          {{#helpers.highlight}}Game started on: <span class="post-meta">${data.date}</span>{{/helpers.highlight}}
         </div>
         <p>${data.description}</p>
       </div>`

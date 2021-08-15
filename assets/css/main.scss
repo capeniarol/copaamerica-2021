@@ -40,8 +40,43 @@ $font-family_impact: "iMPACTO" !default;
 
 body {
     font-family: OS;
+    color: #999999;
+    font-size: 16px;
   }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: iMPACTO;
+    color: #666666;
+    font-weight: normal;
   }
+
+.nav-link {
+  margin-left: 5px;
+}
+
+.card-header {
+  background-color: grey;
+}
+
+a {
+   color: #782144; /* 1dcef7  */
+   font-weight: 900;
+}
+
+a:hover {
+  color: #ff5555;
+  font-weight: 900;
+}
+
+.card-body {
+  background-color: #fff;
+}
+
+p {
+  color: #999999;
+}
+
+span {
+  color: #536c53;
+  font-weight: 900;
+}

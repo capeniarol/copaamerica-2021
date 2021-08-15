@@ -1,18 +1,133 @@
 ---
 layout: default
-title: ""
+title: "Copa America 2021"
 description: "Full matches online videos of the Copa America 2021"
+name: index.md
 ---
+
+  {% include space.html %}
+
+<section>
+  <div class="container">
+    <div class="row" style="padding-top: 60px;padding-bottom: 60px;">
+
+    <h3>Group Stage - Day 4</h3>
+    <hr>
+
+    <div class="col-sm">
+    <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+      <div class="card-header" style="font-weight:900;">Group B - Day 4</div>
+      <div class="card-body" style="background-color: #fff;">
+        <h4 class="card-title"><img src="/assets/images/ven.webp" style="width: 25px"> Venezuela<br>
+        <img src="/assets/images/ecu.png" style="width: 25px"> Ecuador</h4>
+        <p class="card-text">Sunday 20/6 21:00 UTC<br>
+        <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+      </div>
+    </div>
+    </div>
+    <div class="col-sm">
+    <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+      <div class="card-header" style="font-weight:900;">Group B - Day 4</div>
+      <div class="card-body">
+        <h4 class="card-title"><img src="/assets/images/col.webp" style="width: 25px"> Colombia<br>
+        <img src="/assets/images/per.webp" style="width: 25px"> Perú</h4>
+        <p class="card-text">Monday 21/6 00:00 UTC<br>
+        <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+      </div>
+    </div>
+    </div>
+    <div class="col-sm">
+    <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+      <div class="card-header" style="font-weight:900;">Group A - Day 4</div>
+      <div class="card-body">
+        <h4 class="card-title"><img src="/assets/images/uru.webp" style="width: 25px"> Uruguay<br>
+        <img src="/assets/images/chi.webp" style="width: 25px"> Chile</h4>
+        <p class="card-text">Monday 21/6 21:00 UTC<br>
+        <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+      </div>
+    </div>
+    </div>
+    <div class="col-sm">
+    <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+      <div class="card-header" style="font-weight:900;">Group A - Day 4</div>
+      <div class="card-body">
+        <h4 class="card-title"><img src="/assets/images/arg.png" style="width: 25px"> Argentina<br>
+        <img src="/assets/images/par.webp" style="width: 25px"> Paraguay</h4>
+        <p class="card-text">Tuesday 22/6 00:00 UTC<br>
+        <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+      </div>
+    </div>
+    </div>
+    <hr>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row" style="padding-top: 60px;padding-bottom: 60px;">
+
+      <h3>Group Stage - Day 5</h3>
+      <hr>
+
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group B - Day 5</div>
+        <div class="card-body">
+          <h4 class="card-title"><img src="/assets/images/ecu.png" style="width: 25px"> Ecuador<br>
+          <img src="/assets/images/per.webp" style="width: 25px"> Perú</h4>
+          <p class="card-text">Wednesday 23/6 21:00 UTC<br>
+          <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group B - Day 5</div>
+        <div class="card-body">
+          <h4 class="card-title"><img src="/assets/images/bra.png" style="width: 25px"> Brasil<br>
+          <img src="/assets/images/col.webp" style="width: 25px"> Colombia</h4>
+          <p class="card-text">Thursday 24/6 00:00 UTC<br>
+          <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group A - Day 5</div>
+        <div class="card-body">
+          <h4 class="card-title"><img src="/assets/images/bol.png" style="width: 25px"> Bolivia<br>
+          <img src="/assets/images/uru.webp" style="width: 25px"> Uruguay</h4>
+          <p class="card-text">Thursday 24/6 21:00 UTC<br>
+          <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group A - Day 5</div>
+        <div class="card-body">
+          <h4 class="card-title"><img src="/assets/images/chi.webp" style="width: 25px"> Chile<br>
+          <img src="/assets/images/par.webp" style="width: 25px"> Paraguay</h4>
+          <p class="card-text">Friday 25/6 00:00 UTC<br>
+          <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <hr>
+
+    </div>
+  </div>
+</section>
 
 <section>
   <div class="container">
     <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
 
-    <section class="section-banner container" style="background: #ffcc00;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
+    <!--<section class="section-banner container" style="background: #fff;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
           <tr  style="display: inline-block;">
-            <td>
-              <img src="/assets/images/CONMEBOL.png" style="float: left;width: 60px;">
-            </td>
+
             <center>
               <td>
                 <h2>Quarterfinals</h2>
@@ -22,58 +137,61 @@ description: "Full matches online videos of the Copa America 2021"
               <!--<img src="https://cdn.sportcast.life/assets/img/tables/493.gif" style="width: 60px;"> -->
 
 
-          </tr>
-        </section>
+        <!--  </tr>
+        </section> -->
+        <h3>Knockout Stage - Quarterfinals</h3>
+        <hr>
 
 
-        <div class="col-sm" style="padding-top: 30px;">
+        <div class="col-sm">
         <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
           <div class="card-header" style="font-weight:900;">Quarterfinal</div>
           <div class="card-body">
             <h4 class="card-title"><img src="/assets/images/arg.png" style="width: 25px"> Argentina<br>
             <img src="/assets/images/ecu.png" style="width: 25px"> Ecuador</h4>
-            <p class="card-text">Viernes 2/7 21:00 UTC<br>
-              <a href="/2021/07/04/copa-america-2021-quarterfinal-argentina-vs-ecuador-full-match.html" style="float: left;font-weight: 900;"><b>Watch online</b> </a>
+            <p class="card-text">Friday 2/7 21:00 UTC<br>
+              <a href="/2021/07/04/copa-america-2021-quarterfinal-argentina-vs-ecuador-full-match.html" style="float: left;font-weight: 900;"><b>watch online</b> </a>
             </p>
           </div>
         </div>
         </div>
-        <div class="col-sm" style="padding-top: 30px;">
+        <div class="col-sm">
         <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
           <div class="card-header" style="font-weight:900;">Quarterfinal</div>
           <div class="card-body">
             <h4 class="card-title"><img src="/assets/images/uru.webp" style="width: 25px"> Uruguay<br>
             <img src="/assets/images/col.webp" style="width: 25px"> Colombia<br></h4>
-            <p class="card-text">Sábado 3/7 00:00 UTC<br>
+            <p class="card-text">Saturday 3/7 00:00 UTC<br>
               <a href="/2021/07/03/copa-america-2021-quarterfinal-uruguay-vs-colombia-full-match.html" style="float: left;font-weight: 900;"><b>Watch online</b> </a>
             </p>
           </div>
         </div>
         </div>
-        <div class="col-sm" style="padding-top: 30px;">
+        <div class="col-sm">
         <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
           <div class="card-header" style="font-weight:900;">Quarterfinal</div>
           <div class="card-body">
             <h4 class="card-title"><img src="/assets/images/bra.png" style="width: 25px"> Brazil<br>
             <img src="/assets/images/chi.webp" style="width: 25px"> Chile</h4>
-            <p class="card-text">Sábado 3/7 22:00 UTC<br>
+            <p class="card-text">Saturday 3/7 22:00 UTC<br>
               <a href="/2021/07/03/copa-america-2021-quarterfinal-brazil-vs-chile-full-match.html" style="float: left;font-weight: 900;"><b>Watch online</b> </a>
             </p>
           </div>
         </div>
         </div>
-        <div class="col-sm" style="padding-top: 30px;">
+        <div class="col-sm">
         <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
           <div class="card-header" style="font-weight:900;">Quarterfinal</div>
           <div class="card-body">
             <h4 class="card-title"><img src="/assets/images/par.webp" style="width: 25px"> Paraguay<br>
             <img src="/assets/images/per.webp" style="width: 25px"> Peru</h4>
-            <p class="card-text">Domingo 4/7 01:00 UTC<br>
-              <a href="#" style="float: left;font-weight: 900;"><b>Watch online</b> </a>
+            <p class="card-text">Sunday 4/7 01:00 UTC<br>
+              <a href="/2021/07/04/copa-america-2021-quarterfinal-peru-vs-paraguay-full-match.html" style="float: left;font-weight: 900;"><b>watch online</b> </a>
             </p>
           </div>
         </div>
         </div>
+        <hr>
 
       </div>
     </div>
@@ -83,11 +201,9 @@ description: "Full matches online videos of the Copa America 2021"
     <div class="container">
       <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
 
-      <section class="section-banner container" style="background: #ffcc00;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
+      <!-- <section class="section-banner container" style="background: #fff;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
             <tr  style="display: inline-block;">
-              <td>
-                <img src="/assets/images/CONMEBOL.png" style="float: left;width: 60px;">
-              </td>
+
               <center>
                 <td>
                   <h2>Semifinals</h2>
@@ -97,21 +213,23 @@ description: "Full matches online videos of the Copa America 2021"
                 <!--<img src="https://cdn.sportcast.life/assets/img/tables/493.gif" style="width: 60px;"> -->
 
 
-            </tr>
-          </section>
+          <!--  </tr>
+          </section> -->
+          <h3>Knockout Stage - Semifinals</h3>
+          <hr>
 
-      <div class="col-sm" style="padding-top: 30px;">
+      <div class="col-sm">
       <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
         <div class="card-header" style="font-weight:900;">Semifinal</div>
         <div class="card-body">
           <h4 class="card-title"><img src="/assets/images/bra.png" style="width: 25px"> Brazil<br>
           <img src="/assets/images/per.webp" style="width: 25px"> Perú</h4>
           <p class="card-text">Lunes 5/7 23:00 UTC<br>
-          <a href="/2021/07/05/copa-america-2021-semifinal-brasil-vs-peru-full-match.html" style="float: left;font-weight: 900;"><b>Watch online</b> </a> </p>
+          <a href="/2021/07/06/copa-america-2021-semifinal-brasil-vs-peru-full-match.html" style="float: left;font-weight: 900;"><b>Watch online</b> </a> </p>
         </div>
       </div>
       </div>
-      <div class="col-sm" style="padding-top: 30px;">
+      <div class="col-sm">
       <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
         <div class="card-header" style="font-weight:900;">Semifinal</div>
         <div class="card-body">
@@ -122,6 +240,7 @@ description: "Full matches online videos of the Copa America 2021"
         </div>
       </div>
       </div>
+      <hr>
 
     </div>
   </div>
@@ -129,13 +248,11 @@ description: "Full matches online videos of the Copa America 2021"
 
 <section>
   <div class="container">
-    <div class="row">
+    <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
 
-    <section class="section-banner container" style="background: #ffcc00;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
+    <!-- <section class="section-banner container" style="background: #fff;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
           <tr  style="display: inline-block;">
-            <td>
-              <img src="/assets/images/CONMEBOL.png" style="float: left;width: 60px;">
-            </td>
+
             <center>
               <td>
                 <h2>3rd place</h2>
@@ -145,10 +262,12 @@ description: "Full matches online videos of the Copa America 2021"
               <!--<img src="https://cdn.sportcast.life/assets/img/tables/493.gif" style="width: 60px;"> -->
 
 
-          </tr>
-        </section>
+        <!--  </tr>
+        </section> -->
+        <h3>Knockout Stage - 3rd Place</h3>
+        <hr>
 
-      <div class="col-sm" style="padding-top: 30px;">
+      <div class="col-sm">
       <div class="card text-white bg-dark mb-3 pull-center" style="max-width: 20rem;">
         <div class="card-header" style="font-weight:900;">3rd place</div>
         <div class="card-body">
@@ -159,6 +278,7 @@ description: "Full matches online videos of the Copa America 2021"
         </div>
       </div>
       </div>
+      <hr>
 
     </div>
   </div>
@@ -167,26 +287,26 @@ description: "Full matches online videos of the Copa America 2021"
 
 <section>
   <div class="container">
-    <div class="row">
+    <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
 
-    <section class="section-banner container" style="background: #ffcc00;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
+    <!--<section class="section-banner container" style="background: #fff;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
           <tr  style="display: inline-block;">
-            <td>
-              <img src="/assets/images/CONMEBOL.png" style="float: left;width: 60px;">
-            </td>
+
             <center>
               <td>
-                <h2>Final</h2>
+                <h2 style="margin-bottom: 10px;">Final</h2>
               </td>
             </center>
 
               <!--<img src="https://cdn.sportcast.life/assets/img/tables/493.gif" style="width: 60px;"> -->
 
 
-          </tr>
-        </section>
+        <!--  </tr>
+        </section> -->
+        <h3>Knockout Stage - Final</h3>
+        <hr>
 
-      <div class="col-sm" style="padding-top: 30px;">
+      <div class="col-sm">
       <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
         <div class="card-header" style="font-weight:900;">Final</div>
         <div class="card-body">
@@ -197,19 +317,22 @@ description: "Full matches online videos of the Copa America 2021"
         </div>
       </div>
       </div>
+      <hr>
 
     </div>
   </div>
 </section>
 
 <section>
-  <div class="container">
+  <div class="section-banner container">
     <div class="row">
       {% for post in site.posts %}
         <a href="{{ post.url }}">
-          <span>{{ post.title }}</span>
+          {{ post.title }}
         </a>
       {% endfor %}
     </div>
   </div>
 </section>
+
+{% include space.html %}

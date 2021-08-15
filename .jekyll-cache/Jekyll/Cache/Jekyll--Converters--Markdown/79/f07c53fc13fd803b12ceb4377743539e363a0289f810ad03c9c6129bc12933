@@ -1,0 +1,56 @@
+I"K<div class="container">
+  <div class="row">
+    <section>
+
+      <style>
+
+.space {
+  height: 150px;
+}
+
+</style>
+<div class="space"></div>
+
+
+<br />
+<br />
+<h3> Acerca de nosotros</h3>
+<hr />
+
+Este sitio fue construido en un intento de tener un documento de tipo histórico sobre la Copa America 2021 que finalmente se
+disputo en Brasil. Es entonces de interés común para todos los aficionados al deporte y resultará útil para muchos poder revivir
+todos los partidos de la Copa Ámerica 2021.
+<br />
+<br />
+<h3>DMCA</h3>
+<hr />
+
+En ningún momento creemos infringir los derechos de autor de nadie pues el material que aqui les presentamos no se encuentra en
+nuestros servidores, simplemente linkiamos material que se puede conseguir libremente en internet y de forma gratuita. Entendemos
+que de otra manera se atenta contra el interés común de tener un documento histórico de un evento deportivo como la Copa Ámerica.
+Documento histórico que tampoco existiría de otra manera pues los autores del material no ofrecen la posibilidad de adquirir las
+grabaciones pasadas de estos eventos. Nosotros simplemente difundimos material histórico.
+<br />
+<br />
+<h3>Colabora con nosotros</h3>
+<hr />
+
+Este sitio aspira existir para siempre, lo único que hay que mantener es el dominio que hay que irlo renovando cada año de forma
+gratuita e incluso este proceso se podría automatizar con un script para renovar el dominio automáticamente todos los años. Índices
+de torneos y competencias como éste contribuyen a la Evolución de internet y el mundo. Si querés ayudarnos a levantar sitios de otros
+torneos como éste o tenés links de partidos completos contáctanos: <i class="fa fa-github"></i> <a href="https://github.com/capeniarol"> capeniarol</a>
+
+  <style>
+
+.space {
+  height: 150px;
+}
+
+</style>
+<div class="space"></div>
+
+
+    </section>
+  </div>
+</div>
+:ET

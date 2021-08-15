@@ -2,19 +2,21 @@
 layout: default
 ---
 
-<section>
+<section style="margin-top: 60px;">
   <div class="container">
     <div class="row">
 
+      {% include space.html %}
 
   <!--<h1 class="page-heading">Posts</h1>-->
-      <h2>Search for a team</h2>
-      <div id="searchbox"></div>
+      <!-- <h8 style="color: #666666;">Search for a team</h8> -->
+      <div id="searchbox" style="margin-top: 10px;margin-bottom: 20px;"></div>
       <div id="hits"></div>
 
   {% include algolia_implementation.html %}
+  <!-- {% include instantsearch.html %} -->
 
-
+  {% include space.html %}
 
     </div>
   </div>

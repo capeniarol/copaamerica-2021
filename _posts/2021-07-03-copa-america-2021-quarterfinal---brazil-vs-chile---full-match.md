@@ -1,17 +1,19 @@
 ---
 layout: default
-title: "Copa America 2021 quarterfinal - Peru vs Paraguay - Full Match!"
+title: "Copa America 2021 quarterfinal - Brasil vs Chile - Full Match Online!"
 description: "Full Match!"
 tags: "copa, america, 2021, peru, paraguay, quarterfinal, online, full, match"
-game_started: 2021-07-04T01:00+00:00
-date: 2021-07-04T01:00+00:00
-name: "2021-07-04-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match.md"
+game_started: 2021-07-03T00:00+00:00
+date: 2021-07-03T00:00+00:00
+name: "2021-07-03-copa-america-2021-quarterfinal---brazil-vs-chile---full-match.md"
 ---
+
+  {% include space.html %}
 
 <style>
 
   .seccion-banner {
-    background-color: #001b68cc;
+    background-color: #e3dbdb;
     padding: 10px;
   }
 
@@ -39,22 +41,20 @@ name: "2021-07-04-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match
 
 
    <div class="row">
-    <div class="col-sm-12" style="background: #ffcc00;">
+    <div class="col-sm-12" style="background: #fff;">
+        <section class="section-banner" style="background: #fff;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #ccc;border-bottom: 2px solid #ccc;">  <!-- border-bottom: 2px solid #001b68; -->
 
-          <section class="section-banner container" style="background: #ffcc00;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
             <tr  style="display: inline-block;">
-              <td>
-                <img src="/assets/images/CONMEBOL.png" style="float: left;width: 60px;">
-              </td>
+
               <center>
                 <td>
-                  <img src="/assets/images/per.webp" Alt="Peru" style="align: center;width: 45px;">
+                  <img src="/assets/images/bra.png" Alt="Brazil" style="align: center;width: 45px;">
                 </td>
                 <td>
                   <img src="/assets/images/logo.copa.america.2021.png" Alt="Copa America 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;">
                 </td>
                 <td>
-                  <img src="/assets/images/par.webp" Alt="Paraguay" style="width: 45px;">
+                  <img src="/assets/images/chi.webp" Alt="Chile" style="width: 45px;">
                 </td>
               </center>
 
@@ -62,7 +62,9 @@ name: "2021-07-04-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match
 
 
             </tr>
-          </section>
+
+        </section>
+
 
     </div>
   </div>
@@ -70,7 +72,11 @@ name: "2021-07-04-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h2>Copa America quarterfinal - Peru vs Paraguay - Full Match!</h2><br><br>
+        <h2>Copa America 2021 quarterfinal - Brazil vs Chile - Full Match Online!</h2><br>
+        <p>The game started on <span>Saturday 03/07 00:00 GMT</span><br>
+        <a href="//ok.ru/videoembed/2739354798771">watch on OK</a></p>
+        <hr>
+        <br><br>
         <div class="col-sm-12 iframe-container">
           <iframe src="//ok.ru/videoembed/2739354798771" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
         </div>
@@ -78,14 +84,24 @@ name: "2021-07-04-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match
     </div>
   </section>
 
-
+<section class="container">
   <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
-    <div class="col-sm-12" style="background-color: #ffcc00;">
-      <div class="section-banner" style="padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #001b68;border-bottom: 2px solid #001b68;">
+    <div class="col-sm-12" style="background-color: #fff;">
+
         <tr style="display: inline-block;padding: 5px;">
+
           <td>
             <span style="font-weight: 900;display: inline-block;">Share: </span>
-          <td>
+            <hr>
+          </td>
           <td>
             <div class="sharethis-inline-share-buttons"></div>
           </td>
+
+        </tr>
+
+      </div>
+    </div>
+  </section>
+
+  {% include space.html %}
