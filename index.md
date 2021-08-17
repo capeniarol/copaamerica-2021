@@ -5,13 +5,13 @@ description: "Full matches online videos of the Copa America 2021"
 name: index.md
 ---
 
-  {% include space.html %}
+  {% include space-top.html %}
 
 <section>
   <div class="container">
     <div class="row" style="padding-top: 60px;padding-bottom: 60px;">
 
-    <h3>Group Stage - Day 4</h3>
+    <h4>Group Stage - Day 4</h4>
     <hr>
 
     <div class="col-sm">
@@ -68,7 +68,7 @@ name: index.md
   <div class="container">
     <div class="row" style="padding-top: 60px;padding-bottom: 60px;">
 
-      <h3>Group Stage - Day 5</h3>
+      <h4>Group Stage - Day 5</h4>
       <hr>
 
       <div class="col-sm">
@@ -87,9 +87,20 @@ name: index.md
         <div class="card-header" style="font-weight:900;">Group B - Day 5</div>
         <div class="card-body">
           <h4 class="card-title"><img src="/assets/images/bra.png" style="width: 25px"> Brasil<br>
-          <img src="/assets/images/col.webp" style="width: 25px"> Colombia</h4>
-          <p class="card-text">Thursday 24/6 00:00 UTC<br>
-          <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+          <img src="/assets/images/ecu.png" style="width: 25px"> Ecuador</h4>
+          <p class="card-text">Sunday 27/6 21:00 UTC<br>
+          <a href="/2021/06/27/copa-america-2021-group-b-day-5-brazil-vs-ecuador-full-match-online.html" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group A - Day 5</div>
+        <div class="card-body">
+          <h4 class="card-title"><img src="/assets/images/uru.webp" style="width: 25px"> Uruguay<br>
+          <img src="/assets/images/par.webp" style="width: 25px"> Paraguay</h4>
+          <p class="card-text">Tuesday 29/6 00:00 UTC<br>
+          <a href="/2021/06/29/copa-america-2021-group-a-day-5-uruguay-vs-paraguay-full-match-online.html" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
         </div>
       </div>
       </div>
@@ -98,20 +109,9 @@ name: index.md
         <div class="card-header" style="font-weight:900;">Group A - Day 5</div>
         <div class="card-body">
           <h4 class="card-title"><img src="/assets/images/bol.png" style="width: 25px"> Bolivia<br>
-          <img src="/assets/images/uru.webp" style="width: 25px"> Uruguay</h4>
-          <p class="card-text">Thursday 24/6 21:00 UTC<br>
-          <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
-        </div>
-      </div>
-      </div>
-      <div class="col-sm">
-      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
-        <div class="card-header" style="font-weight:900;">Group A - Day 5</div>
-        <div class="card-body">
-          <h4 class="card-title"><img src="/assets/images/chi.webp" style="width: 25px"> Chile<br>
-          <img src="/assets/images/par.webp" style="width: 25px"> Paraguay</h4>
-          <p class="card-text">Friday 25/6 00:00 UTC<br>
-          <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+          <img src="/assets/images/arg.png" style="width: 25px"> Argentina</h4>
+          <p class="card-text">Tuesday 29/6 00:00 UTC<br>
+          <a href="/2021/06/29/copa-america-2021-group-a-day-5-bolivia-vs-argentina-full-match-online.html" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
         </div>
       </div>
       </div>
@@ -139,7 +139,7 @@ name: index.md
 
         <!--  </tr>
         </section> -->
-        <h3>Knockout Stage - Quarterfinals</h3>
+        <h4>Knockout Stage - Quarterfinals</h4>
         <hr>
 
 
@@ -149,7 +149,7 @@ name: index.md
           <div class="card-body">
             <h4 class="card-title"><img src="/assets/images/arg.png" style="width: 25px"> Argentina<br>
             <img src="/assets/images/ecu.png" style="width: 25px"> Ecuador</h4>
-            <p class="card-text">Friday 2/7 21:00 UTC<br>
+            <p class="card-text">Sunday 4/7 01:00 UTC<br>
               <a href="/2021/07/04/copa-america-2021-quarterfinal-argentina-vs-ecuador-full-match.html" style="float: left;font-weight: 900;"><b>watch online</b> </a>
             </p>
           </div>
@@ -161,7 +161,7 @@ name: index.md
           <div class="card-body">
             <h4 class="card-title"><img src="/assets/images/uru.webp" style="width: 25px"> Uruguay<br>
             <img src="/assets/images/col.webp" style="width: 25px"> Colombia<br></h4>
-            <p class="card-text">Saturday 3/7 00:00 UTC<br>
+            <p class="card-text">Saturday 3/7 22:00 UTC<br>
               <a href="/2021/07/03/copa-america-2021-quarterfinal-uruguay-vs-colombia-full-match.html" style="float: left;font-weight: 900;"><b>Watch online</b> </a>
             </p>
           </div>
@@ -173,7 +173,7 @@ name: index.md
           <div class="card-body">
             <h4 class="card-title"><img src="/assets/images/bra.png" style="width: 25px"> Brazil<br>
             <img src="/assets/images/chi.webp" style="width: 25px"> Chile</h4>
-            <p class="card-text">Saturday 3/7 22:00 UTC<br>
+            <p class="card-text">Saturday 3/7 00:00 UTC<br>
               <a href="/2021/07/03/copa-america-2021-quarterfinal-brazil-vs-chile-full-match.html" style="float: left;font-weight: 900;"><b>Watch online</b> </a>
             </p>
           </div>
@@ -185,8 +185,8 @@ name: index.md
           <div class="card-body">
             <h4 class="card-title"><img src="/assets/images/par.webp" style="width: 25px"> Paraguay<br>
             <img src="/assets/images/per.webp" style="width: 25px"> Peru</h4>
-            <p class="card-text">Sunday 4/7 01:00 UTC<br>
-              <a href="/2021/07/04/copa-america-2021-quarterfinal-peru-vs-paraguay-full-match.html" style="float: left;font-weight: 900;"><b>watch online</b> </a>
+            <p class="card-text">Friday 2/7 21:00 UTC<br>
+              <a href="/2021/07/02/copa-america-2021-quarterfinal-peru-vs-paraguay-full-match.html" style="float: left;font-weight: 900;"><b>watch online</b> </a>
             </p>
           </div>
         </div>
@@ -215,7 +215,7 @@ name: index.md
 
           <!--  </tr>
           </section> -->
-          <h3>Knockout Stage - Semifinals</h3>
+          <h4>Knockout Stage - Semifinals</h4>
           <hr>
 
       <div class="col-sm">
@@ -264,7 +264,7 @@ name: index.md
 
         <!--  </tr>
         </section> -->
-        <h3>Knockout Stage - 3rd Place</h3>
+        <h4>Knockout Stage - 3rd Place</h4>
         <hr>
 
       <div class="col-sm">
@@ -303,7 +303,7 @@ name: index.md
 
         <!--  </tr>
         </section> -->
-        <h3>Knockout Stage - Final</h3>
+        <h4>Knockout Stage - Final</h4>
         <hr>
 
       <div class="col-sm">
@@ -312,25 +312,13 @@ name: index.md
         <div class="card-body">
           <h4 class="card-title"><img src="/assets/images/arg.png" style="width: 25px"> Argentina<br>
           <img src="/assets/images/bra.png" style="width: 25px"> Brazil</h4>
-          <p class="card-text">Sábado 10/7 00:00 UTC<br>
+          <p class="card-text">Sábado 11/7 00:00 UTC<br>
           <a href="/2021/07/11/copa-america-2021-final-argentina-vs-brasil.html" style="float: left;font-weight: 900;"><b>Watch online!</b> </a> </p>
         </div>
       </div>
       </div>
       <hr>
 
-    </div>
-  </div>
-</section>
-
-<section>
-  <div class="section-banner container">
-    <div class="row">
-      {% for post in site.posts %}
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      {% endfor %}
     </div>
   </div>
 </section>

@@ -8,7 +8,7 @@ name: contact-us.md
   <div class="container">
     <div class="row">
 
-      {% include space.html %}
+      {% include space-top.html %}
 
     <h4>Contact Us</h4>
     <hr>
@@ -17,7 +17,7 @@ name: contact-us.md
       <center>
         <image src="/assets/images/nooficial_yt_logo.png" width="150px"><br>
 
-          {% include space.html %}
+          {% include space-top.html %}
 
-        <h4><span>We don't fake it, we just take it</span></h4><br>
+        <h4>We don't fake it, we just take it</h4><br>
         <h6><i class="fa fa-github"></i><a href="https://github.com/capeniarol"> capeniarol</a></h6>

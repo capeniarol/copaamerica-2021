@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Copa America 2021 quarterfinal - Brasil vs Chile - Full Match Online!"
+title: "Copa America 2021 quarterfinal - Brazil vs Chile - Full Match Online!"
 description: "Full Match!"
-tags: "copa, america, 2021, peru, paraguay, quarterfinal, online, full, match"
+tags: "copa, america, 2021, brazil, chile, quarterfinal, online, full, match"
 game_started: 2021-07-03T00:00+00:00
 date: 2021-07-03T00:00+00:00
 name: "2021-07-03-copa-america-2021-quarterfinal---brazil-vs-chile---full-match.md"
 ---
 
-  {% include space.html %}
+  {% include space-top.html %}
 
 <style>
 
@@ -72,7 +72,7 @@ name: "2021-07-03-copa-america-2021-quarterfinal---brazil-vs-chile---full-match.
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h2>Copa America 2021 quarterfinal - Brazil vs Chile - Full Match Online!</h2><br>
+        <h4>Copa America 2021 quarterfinal - Brazil vs Chile - Full Match Online!</h4><br>
         <p>The game started on <span>Saturday 03/07 00:00 GMT</span><br>
         <a href="//ok.ru/videoembed/2739354798771">watch on OK</a></p>
         <hr>

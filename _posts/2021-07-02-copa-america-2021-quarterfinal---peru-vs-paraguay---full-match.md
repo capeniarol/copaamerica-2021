@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Copa America 2021 quarterfinal - Peru vs Paraguay - Full Match!"
+title: "Copa America 2021 quarterfinal - Peru vs Paraguay - Full Match Online!"
 description: "Full Match!"
 tags: "copa, america, 2021, peru, paraguay, quarterfinal, online, full, match"
 game_started: 2021-07-02T21:00+00:00
-date: 2021-07-04T00:00+00:00
+date: 2021-07-02T21:00+00:00
 name: "2021-07-02-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match.md"
 ---
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0&appId=360550859009535&autoLogAppEvents=1" nonce="GWSoBacg"></script>
 
-  {% include space.html %}
+  {% include space-top.html %}
 
 <style>
 
@@ -75,7 +75,7 @@ name: "2021-07-02-copa-america-2021-quarterfinal---peru-vs-paraguay---full-match
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h2>Copa America 2021 quarterfinal - Peru vs Paraguay - Full Match Online!</h2><br>
+        <h4>Copa America 2021 quarterfinal - Peru vs Paraguay - Full Match Online!</h4><br>
         <p>The game started on <span>Friday 02/07 21:00 GMT</span><br>
         <a href="//ok.ru/videoembed/2777967102643">watch on OK</a></p>
         <hr>

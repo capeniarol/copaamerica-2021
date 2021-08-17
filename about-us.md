@@ -9,35 +9,28 @@ name: about-us.md
   <div class="row">
     <section>
 
-      {% include space.html %}
+      {% include space-top.html %}
 
-<br>
-<br>
-<h3> Acerca de nosotros</h3>
+<h4> About Us</h4>
 <hr>
 
-Este sitio fue construido en un intento de tener un documento de tipo histórico sobre la Copa America 2021 que finalmente se
-disputo en Brasil. Es entonces de interés común para todos los aficionados al deporte y resultará útil para muchos poder revivir
-todos los partidos de la Copa Ámerica 2021.
+This site was built in an attempt to have a historical document about the Copa America 2021 that was finally played in Brazil. It is then of common interest to all sports fans and it will be useful for many to be able to relive all the matches of the 2021 Copa America.
 <br>
 <br>
-<h3>DMCA</h3>
+<h4>DMCA</h4>
 <hr>
 
-En ningún momento creemos infringir los derechos de autor de nadie pues el material que aqui les presentamos no se encuentra en
-nuestros servidores, simplemente linkiamos material que se puede conseguir libremente en internet y de forma gratuita. Entendemos
-que de otra manera se atenta contra el interés común de tener un documento histórico de un evento deportivo como la Copa Ámerica.
-Documento histórico que tampoco existiría de otra manera pues los autores del material no ofrecen la posibilidad de adquirir las
-grabaciones pasadas de estos eventos. Nosotros simplemente difundimos material histórico.
+At no time do we believe that we are infringing the copyright of anyone because the material that we present here is not found in
+our servers, we simply link material that is freely available on the Internet and for free. We understand
+that otherwise it undermines the common interest of having a document with historical value from a sporting event such as the Copa America. A document that would not exist otherwise because the authors of the content do not offer the possibility of acquiring the
+recordings of past events. We simply disseminate this material of historical value.
 <br>
 <br>
-<h3>Colabora con nosotros</h3>
+<h4>Colaborate with Us</h4>
 <hr>
 
-Este sitio aspira existir para siempre, lo único que hay que mantener es el dominio que hay que irlo renovando cada año de forma
-gratuita e incluso este proceso se podría automatizar con un script para renovar el dominio automáticamente todos los años. Índices
-de torneos y competencias como éste contribuyen a la Evolución de internet y el mundo. Si querés ayudarnos a levantar sitios de otros
-torneos como éste o tenés links de partidos completos contáctanos: <i class="fa fa-github"></i> <a href="https://github.com/capeniarol"> capeniarol</a>
+This site aspires to exist forever, the only thing that needs to be maintained is the domain that needs to be renewed for free every year and even this process could be automated with a script automatically every year. Indexing tournaments and competitions like this contribute to the <span>Evolution</span> of the Internet and the world. If you want to help us build other sites of tournaments like this or you have links to full matches contact us:<br>
+<i class="fa fa-github"></i> <a href="https://github.com/capeniarol"> capeniarol</a>
 
   {% include space.html %}
 
