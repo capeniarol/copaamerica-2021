@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Copa America 2021 Group B Day 5 - Venezuela vs Peru - Full Match Online!"
+title: "Copa America 2021 Group B Day 4 - Ecuador vs Peru - Full Match Online!"
 description: "Full Match Online!"
-tags: "copa, america, 2021, venezuela, peru, group B, day 5, online, full, match"
-game_started: 2021-06-27T21:00+00:00
-date: 2021-06-27T21:00+00:00
-name: "2021-06-27-copa-america-2021-group-b-day-5---venezuela-vs-peru---full-match-online.md"
+tags: "copa, america, 2021, ecuador, peru, group B, day 4, online, full, match"
+game_started: 2021-06-23T21:00+00:00
+date: 2021-06-23T21:00+00:00
+name: "2021-06-23-copa-america-2021-group-b-day-4---ecuador-vs-peru---full-match-online.md"
 ---
 
 <div id="fb-root"></div>
@@ -51,7 +51,7 @@ name: "2021-06-27-copa-america-2021-group-b-day-5---venezuela-vs-peru---full-mat
 
               <center>
                 <td>
-                  <img src="/assets/images/ven.webp" Alt="Venezuela" style="align: center;width: 45px;">
+                  <img src="/assets/images/ecu.png" Alt="Ecuador" style="align: center;width: 45px;">
                 </td>
                 <td>
                   <img src="/assets/images/logo.copa.america.2021.png" Alt="Copa America 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;">
@@ -75,13 +75,13 @@ name: "2021-06-27-copa-america-2021-group-b-day-5---venezuela-vs-peru---full-mat
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h4>Copa America 2021 Group B Day 5 - Venezuela vs Peru - Full Match Online!</h4><br>
-        <p>The game started on <span>Sunday 27/06 21:00 GMT</span><br>
-        <a href="//ok.ru/">watch on OK</a></p>
+        <h4>Copa America 2021 Group B Day 4 - Ecuador vs Peru - Full Match Online!</h4><br>
+        <p>The game started on <span>Wednesday 23/06 21:00 GMT</span><br>
+        <a href="//ok.ru/videoembed/2783385750195">watch on OK</a></p>
         <hr>
         <br><br>
         <div class="col-sm-12 iframe-container">
-          <iframe src="//ok.ru/" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
+          <iframe src="//ok.ru/videoembed/2783385750195" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
         </div>
       </div>
     </div>
