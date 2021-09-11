@@ -54,7 +54,7 @@ name: "2021-08-18-copa-sudamericana-2021-cuartos-de-final-vuelta---penarol-vs-sp
                   <img src="/assets/images/peniarol.webp" Alt="Peñarol" style="align: center;width: 45px;">
                 </td>
                 <td>
-                  <img src="/assets/images/sudamericana.webp" Alt="Copa Sudamericana 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;">
+                  <img src="/assets/images/sudamericana.webp" Alt="Copa Sudamericana" style="height: 60px;padding-left: 15px;padding-right: 15px;">
                 </td>
                 <td>
                   <img src="/assets/images/sporting-cristal.webp" Alt="Sporting Cristal" style="width: 45px;">

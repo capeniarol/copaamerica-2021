@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
+    />
+
+    {%- feed_meta -%}
+    {%- seo -%}
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=60ef049c003943001ce6e8b3&product=sop' async='async'></script>
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+
+  </head>
+  <body>
+
+    <style>
+
+    #covid19 {
+        background-color: #fff6d5;
+      }
+
+    </style>
+
+    {% include menu.html %}
+
+    {% include info-banner.html %}
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-2 col-sm">
+          Primera columna más pequeña
+        </div>
+
+        <div class="col-md-8 col-sm">
+          {{ content }}
+        </div>
+
+        <div class="col-md-2 col-sm">
+          Tercera columna más pequeña
+        </div>
+
+
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+	  <script src="{{'/node_modules/@popperjs/core/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
+	  <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+  </body>
+</html>

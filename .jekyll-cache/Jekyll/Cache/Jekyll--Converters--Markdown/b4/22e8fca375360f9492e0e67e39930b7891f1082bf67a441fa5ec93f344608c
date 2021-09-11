@@ -1,0 +1,76 @@
+I"'<style>
+
+.space-top {
+  height: 70px;
+}
+
+</style>
+
+<div class="space-top"></div>
+
+<h4>The group stage</h4>
+<hr />
+
+<h2><br /></h2>
+
+<p>DAY 1 COPA AMERICA 2021</p>
+<ul>
+  <li>Paraguay vs Bolivia</li>
+  <li>Argentina vs Chile</li>
+  <li>Colombia vs Ecuador</li>
+  <li>Brazil vs Venezuela</li>
+</ul>
+
+<hr />
+
+<p>DAY 2 COPA AMERICA 2021</p>
+<ul>
+  <li>Argentina vs Uruguay</li>
+  <li>Chile vs Bolivia</li>
+  <li>Brasil vs Peru</li>
+  <li>Colombia vs Venezuela</li>
+</ul>
+
+<hr />
+
+<p>DAY 3 COPA AMERICA 2021</p>
+<ul>
+  <li>Argentina vs Paraguay</li>
+  <li>Uruguay vs Chile</li>
+  <li>Colombia vs Peru</li>
+  <li>Venezuela vs Ecuador</li>
+</ul>
+
+<hr />
+
+<p>DAY 4 COPA AMERICA 2021</p>
+<ul>
+  <li>Chile vs Paraguay</li>
+  <li>Bolivia vs Uruguay</li>
+  <li>Brasil vs Colombia</li>
+  <li>Ecuador vs Peru</li>
+</ul>
+
+<hr />
+
+<p>DAY 5 COPA AMERICA 2021:</p>
+<ul>
+  <li>Bolivia vs Argentina</li>
+  <li>Uruguay vs Paraguay</li>
+  <li>Brasil vs Ecuador</li>
+  <li>Venezuela vs Peru</li>
+</ul>
+
+<hr />
+
+<style>
+
+.space {
+  height: 150px;
+}
+
+</style>
+
+<div class="space"></div>
+
+:ET

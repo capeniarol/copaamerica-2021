@@ -75,10 +75,10 @@ name: index.md
       <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
         <div class="card-header" style="font-weight:900;">Group B - Day 5</div>
         <div class="card-body">
-          <h4 class="card-title"><img src="/assets/images/ecu.png" style="width: 25px"> Ecuador<br>
-          <img src="/assets/images/per.webp" style="width: 25px"> Perú</h4>
-          <p class="card-text">Wednesday 23/6 21:00 UTC<br>
-          <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+          <h4 class="card-title"><img src="/assets/images/ven.webp" style="width: 25px"> Venezuela<br>
+          <img src="/assets/images/per.webp" style="width: 25px"> Peru</h4>
+          <p class="card-text">Sunday 27/6 21:00 UTC<br>
+          <a href="/2021/06/27/copa-america-2021-group-b-day-5-venezuela-vs-peru-full-match-online.html" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
         </div>
       </div>
       </div>
