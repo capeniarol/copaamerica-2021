@@ -1,5 +1,5 @@
 ---
-layout: capeniarol
+layout: eldorado
 title: "Copa Sudamericana 2021 cuartos de final vuelta - Peñarol vs Sporting Cristal - Partido Completo Online!"
 description: "Partido Completo Online!"
 tags: "sudamericana, peñarol, sporting cristal, cuartos de final, vuelta"

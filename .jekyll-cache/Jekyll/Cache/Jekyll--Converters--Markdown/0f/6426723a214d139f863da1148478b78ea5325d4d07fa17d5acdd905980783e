@@ -1,0 +1,787 @@
+I"U<style>
+
+.space-top {
+  height: 70px;
+}
+
+</style>
+
+<div class="space-top"></div>
+
+<section>
+  <div class="container">
+    <div class="row" style="margin-bottom: 20px;padding: 20px;">
+      <h2><span>Squad Colombia</span></h2>
+<br />
+<br />
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Radamel Falcao" src="https://api.sofascore.com/api/v1/player/25682/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Radamel Falcao
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2818/image
+" width="25px" alt="Rayo Vallecano" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Rayo Vallecano</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Rafael Santos Borré" src="https://api.sofascore.com/api/v1/player/560116/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Rafael Santos Borré
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2674/image
+" width="25px" alt="Eintracht Frankfurt" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Eintracht Frankfurt</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Miguel Borja" src="https://api.sofascore.com/api/v1/player/329601/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Miguel Borja
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/5926/image
+" width="25px" alt="Grêmio" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Grêmio</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Luis Sinisterra" src="https://api.sofascore.com/api/v1/player/836070/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Luis Sinisterra
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2959/image
+" width="25px" alt="Feyenoord" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Feyenoord</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Roger Martínez" src="https://api.sofascore.com/api/v1/player/344243/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Roger Martínez
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1939/image
+" width="25px" alt="Club América" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Club América</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Luis Díaz" src="https://api.sofascore.com/api/v1/player/883537/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Luis Díaz
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/3002/image
+" width="25px" alt="FC Porto" />
+              </td>
+              <td>
+               <span style="font-size:14px;">FC Porto</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Juan Quintero" src="https://api.sofascore.com/api/v1/player/221162/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Juan Quintero
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/3370/image
+" width="25px" alt="Shenzhen" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Shenzhen</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Mateus Uribe" src="https://api.sofascore.com/api/v1/player/247773/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Mateus Uribe
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/3002/image
+" width="25px" alt="FC Porto" />
+              </td>
+              <td>
+               <span style="font-size:14px;">FC Porto</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Wílmar Barrios" src="https://api.sofascore.com/api/v1/player/309652/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Wílmar Barrios
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2321/image
+" width="25px" alt="Zenit St. Petersburg" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Zenit St. Petersburg</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Gustavo Cuéllar" src="https://api.sofascore.com/api/v1/player/180059/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Gustavo Cuéllar
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/21895/image
+" width="25px" alt="Al-Hilal Saudi" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Al-Hilal Saudi</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Andrés Andrade" src="https://api.sofascore.com/api/v1/player/248065/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Andrés Andrade
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/6106/image
+" width="25px" alt="Atlético Nacional" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Atlético Nacional</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Alexander Mejía" src="https://api.sofascore.com/api/v1/player/145066/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Alexander Mejía
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/6116/image
+" width="25px" alt="Independiente Santa Fe" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Independiente Santa Fe</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Baldomero Perlaza" src="https://api.sofascore.com/api/v1/player/285611/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Baldomero Perlaza
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/6106/image
+" width="25px" alt="Atlético Nacional" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Atlético Nacional</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Yerson Candelo" src="https://api.sofascore.com/api/v1/player/158593/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Yerson Candelo
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/6106/image
+" width="25px" alt="Atlético Nacional" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Atlético Nacional</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Juan Cuadrado" src="https://api.sofascore.com/api/v1/player/47743/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Juan Cuadrado
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2687/image
+" width="25px" alt="Juventus" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Juventus</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Davinson Sánchez" src="https://api.sofascore.com/api/v1/player/566102/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Davinson Sánchez
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/33/image
+" width="25px" alt="Tottenham" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Tottenham</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Daniel Muñoz" src="https://api.sofascore.com/api/v1/player/870360/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Daniel Muñoz
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2890/image
+" width="25px" alt="KRC Genk" />
+              </td>
+              <td>
+               <span style="font-size:14px;">KRC Genk</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Stefan Medina" src="https://api.sofascore.com/api/v1/player/221148/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Stefan Medina
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1932/image
+" width="25px" alt="Monterrey" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Monterrey</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Carlos Cuesta" src="https://api.sofascore.com/api/v1/player/839095/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Carlos Cuesta
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2890/image
+" width="25px" alt="KRC Genk" />
+              </td>
+              <td>
+               <span style="font-size:14px;">KRC Genk</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Yairo Moreno" src="https://api.sofascore.com/api/v1/player/822079/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Yairo Moreno
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1936/image
+" width="25px" alt="Pachuca" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Pachuca</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="William Tesillo" src="https://api.sofascore.com/api/v1/player/794087/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              William Tesillo
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/36534/image
+" width="25px" alt="Club León" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Club León</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Óscar Murillo" src="https://api.sofascore.com/api/v1/player/111224/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Óscar Murillo
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1936/image
+" width="25px" alt="Pachuca" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Pachuca</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Andrés Román" src="https://api.sofascore.com/api/v1/player/870013/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Andrés Román
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/6117/image
+" width="25px" alt="Millonarios FC" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Millonarios FC</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Andrés Llinás" src="https://api.sofascore.com/api/v1/player/982821/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Andrés Llinás
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/6117/image
+" width="25px" alt="Millonarios FC" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Millonarios FC</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Dairon Mosquera" src="https://api.sofascore.com/api/v1/player/834223/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Dairon Mosquera
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/6116/image
+" width="25px" alt="Independiente Santa Fe" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Independiente Santa Fe</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="David Ospina" src="https://api.sofascore.com/api/v1/player/33596/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              David Ospina
+            </h4>
+          </center>
+          <center>
+            Goalkeeper
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2714/image
+" width="25px" alt="Napoli" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Napoli</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Camilo Vargas" src="https://api.sofascore.com/api/v1/player/125787/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Camilo Vargas
+            </h4>
+          </center>
+          <center>
+            Goalkeeper
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1949/image
+" width="25px" alt="Atlas" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Atlas</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Álvaro Montero" src="https://api.sofascore.com/api/v1/player/926238/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Álvaro Montero
+            </h4>
+          </center>
+          <center>
+            Goalkeeper
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/6111/image
+" width="25px" alt="Deportes Tolima" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Deportes Tolima</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+    </div>
+  </div>
+</section>
+
+<style>
+
+.space {
+  height: 150px;
+}
+
+</style>
+
+<div class="space"></div>
+
+:ET

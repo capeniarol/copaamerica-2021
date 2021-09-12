@@ -1,0 +1,1003 @@
+I"'l<style>
+
+.space-top {
+  height: 70px;
+}
+
+</style>
+
+<div class="space-top"></div>
+
+<section>
+  <div class="container">
+    <div class="row" style="margin-bottom: 20px;padding: 20px;">
+      <h2><span>Squad Brazil</span></h2>
+<br />
+<br />
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Neymar" src="https://api.sofascore.com/api/v1/player/124712/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Neymar
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1644/image
+" width="25px" alt="Paris Saint-Germain" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Paris Saint-Germain</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Vinícius Júnior" src="https://api.sofascore.com/api/v1/player/868812/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Vinícius Júnior
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2829/image
+" width="25px" alt="Real Madrid" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Real Madrid</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Roberto Firmino" src="https://api.sofascore.com/api/v1/player/143697/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Roberto Firmino
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/44/image
+" width="25px" alt="Liverpool" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Liverpool</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Gabriel Jesus" src="https://api.sofascore.com/api/v1/player/794839/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Gabriel Jesus
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/17/image
+" width="25px" alt="Manchester City" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Manchester City</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Gabriel Barbosa" src="https://api.sofascore.com/api/v1/player/358554/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Gabriel Barbosa
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/5981/image
+" width="25px" alt="Flamengo" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Flamengo</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Richarlison" src="https://api.sofascore.com/api/v1/player/840217/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Richarlison
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/48/image
+" width="25px" alt="Everton" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Everton</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Hulk" src="https://api.sofascore.com/api/v1/player/34705/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Hulk
+            </h4>
+          </center>
+          <center>
+            Forward
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1977/image
+" width="25px" alt="Atlético Mineiro" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Atlético Mineiro</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Casemiro" src="https://api.sofascore.com/api/v1/player/122951/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Casemiro
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2829/image
+" width="25px" alt="Real Madrid" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Real Madrid</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Lucas Paquetá" src="https://api.sofascore.com/api/v1/player/839981/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Lucas Paquetá
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1649/image
+" width="25px" alt="Olympique Lyonnais" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Olympique Lyonnais</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Dani Alves" src="https://api.sofascore.com/api/v1/player/4419/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Dani Alves
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1981/image
+" width="25px" alt="São Paulo" />
+              </td>
+              <td>
+               <span style="font-size:14px;">São Paulo</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Gerson" src="https://api.sofascore.com/api/v1/player/611876/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Gerson
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1641/image
+" width="25px" alt="Olympique de Marseille" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Olympique de Marseille</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Fabinho" src="https://api.sofascore.com/api/v1/player/243585/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Fabinho
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/44/image
+" width="25px" alt="Liverpool" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Liverpool</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Fred" src="https://api.sofascore.com/api/v1/player/243623/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Fred
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/35/image
+" width="25px" alt="Manchester United" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Manchester United</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Everton Ribeiro" src="https://api.sofascore.com/api/v1/player/145063/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Everton Ribeiro
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/5981/image
+" width="25px" alt="Flamengo" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Flamengo</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Malcom" src="https://api.sofascore.com/api/v1/player/551772/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Malcom
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2321/image
+" width="25px" alt="Zenit St. Petersburg" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Zenit St. Petersburg</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Raphinha" src="https://api.sofascore.com/api/v1/player/831005/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Raphinha
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/34/image
+" width="25px" alt="Leeds United" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Leeds United</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Matheus Cunha" src="https://api.sofascore.com/api/v1/player/886363/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Matheus Cunha
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2836/image
+" width="25px" alt="Atlético Madrid" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Atlético Madrid</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Bruno Guimarães" src="https://api.sofascore.com/api/v1/player/866469/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Bruno Guimarães
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1649/image
+" width="25px" alt="Olympique Lyonnais" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Olympique Lyonnais</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Claudinho" src="https://api.sofascore.com/api/v1/player/817578/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Claudinho
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2321/image
+" width="25px" alt="Zenit St. Petersburg" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Zenit St. Petersburg</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Artur" src="https://api.sofascore.com/api/v1/player/841128/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Artur
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1999/image
+" width="25px" alt="Red Bull Bragantino" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Red Bull Bragantino</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Edenilson" src="https://api.sofascore.com/api/v1/player/221636/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Edenilson
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1966/image
+" width="25px" alt="Internacional" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Internacional</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Matheus Nunes" src="https://api.sofascore.com/api/v1/player/945122/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Matheus Nunes
+            </h4>
+          </center>
+          <center>
+            Midfielder
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/3001/image
+" width="25px" alt="Sporting CP" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Sporting CP</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Thiago Silva" src="https://api.sofascore.com/api/v1/player/33541/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Thiago Silva
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/38/image
+" width="25px" alt="Chelsea" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Chelsea</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Éder Militão" src="https://api.sofascore.com/api/v1/player/822519/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Éder Militão
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2829/image
+" width="25px" alt="Real Madrid" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Real Madrid</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Marquinhos" src="https://api.sofascore.com/api/v1/player/155995/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Marquinhos
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1644/image
+" width="25px" alt="Paris Saint-Germain" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Paris Saint-Germain</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Alex Sandro" src="https://api.sofascore.com/api/v1/player/84854/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Alex Sandro
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2687/image
+" width="25px" alt="Juventus" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Juventus</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Danilo" src="https://api.sofascore.com/api/v1/player/124992/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Danilo
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/2687/image
+" width="25px" alt="Juventus" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Juventus</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Miranda" src="https://api.sofascore.com/api/v1/player/13017/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Miranda
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1981/image
+" width="25px" alt="São Paulo" />
+              </td>
+              <td>
+               <span style="font-size:14px;">São Paulo</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Guilherme Arana" src="https://api.sofascore.com/api/v1/player/1127439/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Guilherme Arana
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1977/image
+" width="25px" alt="Atlético Mineiro" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Atlético Mineiro</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Lucas Veríssimo" src="https://api.sofascore.com/api/v1/player/826343/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Lucas Veríssimo
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/3006/image
+" width="25px" alt="SL Benfica" />
+              </td>
+              <td>
+               <span style="font-size:14px;">SL Benfica</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Léo Ortiz" src="https://api.sofascore.com/api/v1/player/869643/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Léo Ortiz
+            </h4>
+          </center>
+          <center>
+            Defender
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1999/image
+" width="25px" alt="Red Bull Bragantino" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Red Bull Bragantino</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Alisson" src="https://api.sofascore.com/api/v1/player/243609/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Alisson
+            </h4>
+          </center>
+          <center>
+            Goalkeeper
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/44/image
+" width="25px" alt="Liverpool" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Liverpool</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Ederson" src="https://api.sofascore.com/api/v1/player/254491/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Ederson
+            </h4>
+          </center>
+          <center>
+            Goalkeeper
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/17/image
+" width="25px" alt="Manchester City" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Manchester City</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Weverton" src="https://api.sofascore.com/api/v1/player/243529/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Weverton
+            </h4>
+          </center>
+          <center>
+            Goalkeeper
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1963/image
+" width="25px" alt="Palmeiras" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Palmeiras</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Éverson" src="https://api.sofascore.com/api/v1/player/870748/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Éverson
+            </h4>
+          </center>
+          <center>
+            Goalkeeper
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1977/image
+" width="25px" alt="Atlético Mineiro" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Atlético Mineiro</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+        <div class="col-sm" style="padding: 30px;">
+          <center>
+             <img alt="Santos" src="https://api.sofascore.com/api/v1/player/166491/image
+" />
+          </center>
+          <hr />
+          <center>
+            <h4>
+              Santos
+            </h4>
+          </center>
+          <center>
+            Goalkeeper
+          </center>
+          <center>
+            <tr style="display: inline-block">
+              <td>
+                <img src="https://api.sofascore.com/api/v1/team/1967/image
+" width="25px" alt="Athletico Paranaense" />
+              </td>
+              <td>
+               <span style="font-size:14px;">Athletico Paranaense</span>
+              </td>
+            </tr>
+          </center>
+          <hr />
+        </div>
+    </div>
+  </div>
+</section>
+
+<style>
+
+.space {
+  height: 150px;
+}
+
+</style>
+
+<div class="space"></div>
+
+:ET
