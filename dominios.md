@@ -13,6 +13,7 @@ elloboyeltren.tk
 quilombo.tk
 <a href="https://elcuchuflito.tk"><img src="https://"copaamerica-2021.tk/dominios.html">elcuchuflito.tk</a>
 ennombredequien.tk
+<a href="http://rucompromat.com/articles/2021-09-08-20-58">RUCOMPROMAT</a> La enciclopedia de la biblioteca de evidencia comprometedora - RuCompromat Источник: http://rucompromat.com/about.
 
 -------------------
 Lai
