@@ -7,6 +7,63 @@ name: index.md
 
   {% include space-top.html %}
 
+  <section>
+    <div class="container">
+      <div class="row" style="padding-top: 60px;padding-bottom: 60px;">
+
+      <h4>Group Stage - Day 3</h4>
+      <hr>
+
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group B - Day 3</div>
+        <div class="card-body" style="background-color: #fff;">
+          <h4 class="card-title"><img src="/assets/images/ven.webp" style="width: 25px"> Venezuela<br>
+          <img src="/assets/images/ecu.png" style="width: 25px"> Ecuador</h4>
+          <p class="card-text">Sunday 20/6 21:00 UTC<br>
+          <a href="" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group B - Day 3</div>
+        <div class="card-body">
+          <h4 class="card-title"><img src="/assets/images/col.webp" style="width: 25px"> Colombia<br>
+          <img src="/assets/images/per.webp" style="width: 25px"> Peru</h4>
+          <p class="card-text">Monday 21/6 00:00 UTC<br>
+          <a href="" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group A - Day 3</div>
+        <div class="card-body">
+          <h4 class="card-title"><img src="/assets/images/uru.webp" style="width: 25px"> Uruguay<br>
+          <img src="/assets/images/chi.webp" style="width: 25px"> Chile</h4>
+          <p class="card-text">Monday 21/6 21:00 UTC<br>
+          <a href="/2021/06/21/copa-america-2021-group-a-day-3-uruguay-vs-chile-full-match-online.html" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm">
+      <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+        <div class="card-header" style="font-weight:900;">Group A - Day 3</div>
+        <div class="card-body">
+          <h4 class="card-title"><img src="/assets/images/arg.png" style="width: 25px"> Argentina<br>
+          <img src="/assets/images/par.webp" style="width: 25px"> Paraguay</h4>
+          <p class="card-text">Tuesday 22/6 00:00 UTC<br>
+          <a href="/2021/06/22/copa-america-2021-group-a-day-3-argentina-vs-paraguay-full-match-online.html" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        </div>
+      </div>
+      </div>
+      <hr>
+
+      </div>
+    </div>
+  </section>
+
 <section>
   <div class="container">
     <div class="row" style="padding-top: 60px;padding-bottom: 60px;">
@@ -51,10 +108,10 @@ name: index.md
     <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
       <div class="card-header" style="font-weight:900;">Group A - Day 4</div>
       <div class="card-body">
-        <h4 class="card-title"><img src="/assets/images/arg.png" style="width: 25px"> Argentina<br>
+        <h4 class="card-title"><img src="/assets/images/chi.webp" style="width: 25px"> Chile<br>
         <img src="/assets/images/par.webp" style="width: 25px"> Paraguay</h4>
-        <p class="card-text">Tuesday 22/6 00:00 UTC<br>
-        <a href="#" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
+        <p class="card-text">Friday 25/6 00:00 UTC<br>
+        <a href="/2021/06/25/copa-america-2021-group-a-day-4-chile-vs-paraguay-full-match-online.html" style="float: left;font-weight: 900;"><b>watch online</b> </a> </p>
       </div>
     </div>
     </div>

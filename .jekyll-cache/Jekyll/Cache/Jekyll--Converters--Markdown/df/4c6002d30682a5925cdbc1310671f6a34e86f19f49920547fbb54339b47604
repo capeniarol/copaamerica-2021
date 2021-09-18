@@ -1,7 +1,4 @@
-I"�<div id="fb-root"></div>
-<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v11.0&amp;appId=360550859009535&amp;autoLogAppEvents=1" nonce="GWSoBacg"></script>
-
-<style>
+I"B<style>
 
 .space-top {
   height: 70px;
@@ -47,13 +44,13 @@
 
               <center>
                 <td>
-                  <img src="/assets/images/peniarol.webp" alt="Peñarol" style="align: center;width: 45px;" />
+                  <img src="/assets/images/uru.webp" alt="Uruguay" style="align: center;width: 45px;" />
                 </td>
                 <td>
-                  <img src="/assets/images/sudamericana.webp" alt="Copa Sudamericana 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;" />
+                  <img src="/assets/images/logo.copa.america.2021.png" alt="Copa America 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;" />
                 </td>
                 <td>
-                  <img src="/assets/images/sporting-cristal.webp" alt="Sporting Cristal" style="width: 45px;" />
+                  <img src="/assets/images/chi.webp" alt="Chile" style="width: 45px;" />
                 </td>
               </center>
 
@@ -71,13 +68,13 @@
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h4>Copa Sudamericana 2021 cuartos de final vuelta - Peñarol vs Sporting Cristal - Partido Completo Online!</h4><br />
-        <p>El partido comenzó el <span>Miércoles 18/08 22:15 GMT</span><br />
-        <a href="//ok.ru/videoembed/2788653337267">ver en OK</a></p>
+        <h4>Copa America 2021 Group A Day 3 - Uruguay vs Chile - Full Match Online!</h4><br />
+        <p>The game started on <span>Monday 21/06 21:00 GMT</span><br />
+        <a href="//ok.ru/video/2844919794355">watch on OK</a></p>
         <hr />
         <br /><br />
         <div class="col-sm-12 iframe-container">
-          <iframe src="//ok.ru/videoembed/2788653337267" allowfullscreen=""></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
+          &lt;iframe src="<iframe src="//ok.ru/videoembed/2844919794355" allowfullscreen=""></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
         </div>
       </div>
     </div>
@@ -102,8 +99,6 @@
       </div>
     </div>
   </section>
-
-  <div class="fb-comments" data-href="" data-width="100%" data-numposts="20"></div>
 
   <style>
 
