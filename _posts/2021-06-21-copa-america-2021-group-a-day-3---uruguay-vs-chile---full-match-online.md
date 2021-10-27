@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Copa America 2021 Group A Day 3 - Uruguay vs Chile - Full Match Online!"
+layout: eldorado
+title: "Copa America 2021 Group A Matchday 3 - Uruguay vs Chile - Full Match Online Video!"
 description: "Full Match Online!"
 tags: "copa, america, 2021, uruguay, chile, group a, day 3, online, full, match"
 game_started: 2021-06-21T21:00+00:00
@@ -72,13 +72,13 @@ name: "2021-06-21-copa-america-2021-group-a-day-3---uruguay-vs-chile---full-matc
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h4>Copa America 2021 Group A Day 3 - Uruguay vs Chile - Full Match Online!</h4><br>
+        <h4>Copa America 2021 Group A Matchday 3 - Uruguay vs Chile - Full Match Online Video!</h4><br>
         <p>The game started on <span>Monday 21/06 21:00 GMT</span><br>
-        <a href="//ok.ru/video/2844919794355">watch on OK</a></p>
+        <a href="//ok.ru/videoembed/2862550878899">watch on OK</a></p>
         <hr>
         <br><br>
         <div class="col-sm-12 iframe-container">
-          <iframe src="<iframe src="//ok.ru/videoembed/2844919794355" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
+          <iframe src="//ok.ru/videoembed/2862550878899" allowfullscreen></iframe> <!-- <iframe width="560" height="315" src="//ok.ru/videoembed/2685580413619" frameborder="0" allow="autoplay" allowfullscreen></iframe> //ok.ru/videoembed/2683932773043 -->
         </div>
       </div>
     </div>

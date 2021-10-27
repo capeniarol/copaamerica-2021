@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match Online!"
+layout: eldorado
+title: "Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match Online Video!"
 description: "Full Match!"
 tags: "copa, america, 2021, argentina, ecuador, quarterfinal, online, full, match"
 game_started: 2021-07-04T01:00+00:00
@@ -70,7 +70,7 @@ name: "2021-07-04-copa-america-2021-quarterfinal---argentina-vs-ecuador---full-m
   <section>
     <!--<div class="container" style="padding-top: 35px;padding-bottom: 35px;"> -->
       <div class="row" style="padding-top: 35px;padding-bottom: 35px;">
-        <h4>Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match Online!</h4><br>
+        <h4>Copa America 2021 quarterfinal - Argentina vs Ecuador - Full Match Online Video!</h4><br>
         <p>The game started on <span>Sunday 04/07 01:00 GMT</span><br>
         <a href="//ok.ru/videoembed/2711858973363">watch on OK</a></p>
         <hr>

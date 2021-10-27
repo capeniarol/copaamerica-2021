@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Copa America 2021 Group B Day 5 - Brazil vs Ecuador - Full Match Online!"
+layout: eldorado
+title: "Copa America 2021 Group B Matchday 5 - Brazil vs Ecuador - Full Match Online Video!"
 description: "Full Match Online!"
 tags: "copa, america, 2021, brazil, ecuador, group B, day 5, online, full, match"
 game_started: 2021-06-27T21:00+00:00
@@ -75,7 +75,7 @@ name: "2021-06-27-copa-america-2021-group-b-day-5---brazil-vs-ecuador---full-mat
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h4>Copa America 2021 Group B Day 5 - Brazil vs Ecuador - Full Match Online!</h4><br>
+        <h4>Copa America 2021 Group B Matchday 5 - Brazil vs Ecuador - Full Match Online Video!</h4><br>
         <p>The game started on <span>Sunday 27/06 21:00 GMT</span><br>
         <a href="//ok.ru/videoembed/2782185196211">watch on OK</a></p>
         <hr>

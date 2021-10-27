@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Copa America 2021 Group A Day 3 - Argentina vs Paraguay - Full Match Online!"
+layout: eldorado
+title: "Copa America 2021 Group A Matchday 3 - Argentina vs Paraguay - Full Match Online Video!"
 description: "Full Match Online!"
 tags: "copa, america, 2021, argentina, paraguay, group a, day 3, online, full, match"
 game_started: 2021-06-22T00:00+00:00
@@ -72,7 +72,7 @@ name: "2021-06-22-copa-america-2021-group-a-day-3---argentina-vs-paraguay---full
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h4>Copa America 2021 Group A Day 3 - Argentina vs Paraguay - Full Match Online!</h4><br>
+        <h4>Copa America 2021 Group A Matchday 3 - Argentina vs Paraguay - Full Match Online Video!</h4><br>
         <p>The game started on <span>Tuesday 22/06 00:00 GMT</span><br>
         <a href="//ok.ru/video/2844596636339">watch on OK</a></p>
         <hr>

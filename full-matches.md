@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: eldorado
 title: Full Matches
 description: Full list of available football matches in this site
 name: full-matches.md
@@ -12,10 +12,8 @@ name: full-matches.md
     <div class="row">
       {% for post in site.posts %}
         <a href="{{ post.url }}">
-          {{ post.title }}
+          {{ post.title }}<br>
         </a>
-        post id: {{ post.id }}<br>
-        page id: {{ page.id }}
         <hr>
       {% endfor %}
     </div>

@@ -1,6 +1,6 @@
 ---
 layout: eldorado
-title: "Copa Sudamericana 2021 cuartos de final ida - Sporting Cristal vs Peñarol - Full Match Online!"
+title: "Copa Sudamericana 2021 cuartos de final ida - Sporting Cristal vs Peñarol - Full Match Online Video!"
 description: "Full Match Online!"
 tags: "sudamericana, peñarol, sporting cristal, cuartos de final, ida"
 game_started: 2021-08-11T22:15+00:00

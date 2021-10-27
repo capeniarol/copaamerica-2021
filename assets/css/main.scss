@@ -41,7 +41,7 @@ $font-family_impact: "iMPACTO" !default;
 body {
     font-family: OS;
     color: #999999;
-    font-size: 24px;
+    font-size: 14px;
     font-weight: normal;
   }
 
@@ -61,12 +61,12 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
    color: #782144; /* 1dcef7  */
-   font-weight: 900;
+   font-weight: normal;
 }
 
 a:hover {
   color: #ff5555;
-  font-weight: 900;
+  font-weight: normal;
 }
 
 .card-body {
@@ -79,5 +79,5 @@ p {
 
 span {
   color: #536c53;
-  font-weight: 900;
+  font-weight: normal;
 }

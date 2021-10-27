@@ -14,14 +14,13 @@ name: about-us.md
 <h4> About Us</h4>
 <hr>
 
-This site was built in an attempt to have a historical document about the Copa America 2021 that was finally played in Brazil. It is then of common interest to all sports fans and it will be useful for many to be able to relive all the matches of the 2021 Copa America.
+The Copa America 2021 finally went hosted by Brazil after the initial host nations Argentina and Colombia had their duties suspended by Conmebol. Here we offer full matches online videos of the Copa America 2021. This site was built in an attempt to have a historical document about the Copa America 2021 that was finally played in Brazil. It is then of common interest to all sports fans and it will be useful for many to be able to relive all the matches of the 2021 Copa America.
 <br>
 <br>
 <h4>DMCA</h4>
 <hr>
 
-At no time do we believe that we are infringing the copyright of anyone because the material that we present here is not found in
-our servers, we simply link material that is freely available on the Internet and for free. We understand
+At no time do we believe that we are infringing the copyright of anyone because the material that we present here is not found in our servers, we simply link material that is freely available on the Internet and for free. We understand
 that otherwise it undermines the common interest of having a document with historical value from a sporting event such as the Copa America. A document that would not exist otherwise because the authors of the content do not offer the possibility of acquiring the
 recordings of past events. We simply disseminate this material of historical value.
 <br>
@@ -29,7 +28,7 @@ recordings of past events. We simply disseminate this material of historical val
 <h4>Colaborate with Us</h4>
 <hr>
 
-This site aspires to exist forever, the only thing that needs to be maintained is the domain that needs to be renewed for free every year and even this process could be automated with a script automatically every year. Indexing tournaments and competitions like this contribute to the <span>Evolution</span> of the Internet and the world. If you want to help us build other sites of tournaments like this or you have links to full matches contact us:<br>
+If you want to help us build other sites of tournaments like this or you have links to full matches contact us:<br>
 <i class="fa fa-github"></i> <a href="https://github.com/capeniarol"> capeniarol</a>
 
   {% include space.html %}

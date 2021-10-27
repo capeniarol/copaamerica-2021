@@ -1,0 +1,107 @@
+---
+layout: eldorado
+title: "Copa America 2021 Group B Matchday 1 - Brazil vs Venezuela - Full Match Online Video!"
+description: "Copa America 2021 group stage full match online video!"
+tags: "copa, america, 2021, brazil, venezuela, group b, day 1, online, full match video"
+game_started: 2021-06-13T21:00+00:00
+date: 2021-06-13T21:00+00:00
+name: "2021-06-13-copa-america-2021-group-b-day-1---brazil-vs-venezuela---full-match-online.md"
+---
+
+  {% include space-top.html %}
+
+<style>
+
+  .seccion-banner {
+    background-color: #e3dbdb;
+    padding: 10px;
+  }
+
+  .iframe-container {
+    overflow: hidden;
+    /* 16:9 aspect ratio */
+    padding-top: 56.25%;
+    position: relative;
+  }
+
+  .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+</style>
+
+
+
+<div class="container" style="background-color: #fff;padding-top: 35px;">
+
+
+   <div class="row">
+    <div class="col-sm-12" style="background: #fff;">
+        <section class="section-banner" style="background: #fff;padding-top: 12px;padding-bottom: 12px;border-top: 2px solid #ccc;border-bottom: 2px solid #ccc;">  <!-- border-bottom: 2px solid #001b68; -->
+
+            <tr  style="display: inline-block;">
+
+              <center>
+                <td>
+                  <img src="/assets/images/bra.png" Alt="Brazil" style="align: center;width: 45px;">
+                </td>
+                <td>
+                  <img src="/assets/images/logo.copa.america.2021.png" Alt="Copa America 2021" style="height: 60px;padding-left: 15px;padding-right: 15px;">
+                </td>
+                <td>
+                  <img src="/assets/images/ven.webp" Alt="Venezuela" style="width: 45px;">
+                </td>
+              </center>
+
+                <!--<img src="https://cdn.sportcast.life/assets/img/tables/493.gif" style="width: 60px;"> -->
+
+
+            </tr>
+
+        </section>
+
+
+    </div>
+  </div>
+
+  <section>
+    <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
+      <div class="row">
+        <h4>Copa America 2021 Group B Matchday 1 - Brazil vs Venezuela - Full Match Online Video!</h4><br>
+        <p>The game started on <span>Sunday 13/06 21:00 GMT</span><br>
+        <a href="//ok.ru/videoembed/2970542082739">watch on OK</a></p>
+        <hr>
+        <br><br>
+        <div class="col-sm-12 iframe-container">
+          <iframe src="//ok.ru/videoembed/2970542082739" allowfullscreen></iframe> <!-- <iframe src="//ok.ru/videoembed/2970542082739" allowfullscreen></iframe> -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="container">
+  <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
+    <div class="col-sm-12" style="background-color: #fff;">
+
+        <tr style="display: inline-block;padding: 5px;">
+
+          <td>
+            <span style="font-weight: 900;display: inline-block;">Share: </span>
+            <hr>
+          </td>
+          <td>
+            <div class="sharethis-inline-share-buttons"></div>
+          </td>
+
+        </tr>
+
+      </div>
+    </div>
+  </section>
+
+  {% include space.html %}

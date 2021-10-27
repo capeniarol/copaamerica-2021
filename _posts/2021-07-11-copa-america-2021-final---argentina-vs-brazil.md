@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Copa America 2021 Final - Argentina vs Brazil - Full Match Online!"
+layout: eldorado
+title: "Copa America 2021 Final - Argentina vs Brazil - Full Match Online Video!"
 description: "Full Match!"
 tags: "copa, america, 2021, argentina, brazil, final, online, full, match"
 game_started: 2021-07-11T00:00+00:00
@@ -70,7 +70,7 @@ name: "2021-07-11-copa-america-2021-final---argentina-vs-brazil.md"
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h4>Copa America 2021 Final - Argentina vs Brazil - Full Match Online!</h4><br>
+        <h4>Copa America 2021 Final - Argentina vs Brazil - Full Match Online Video!</h4><br>
         <p>The game started on <span>Sunday 11/07 00:00 GMT</span><br>
         <a href="//ok.ru/videoembed/2711695329971">watch on OK</a></p>
         <hr>

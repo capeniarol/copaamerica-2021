@@ -1,0 +1,45 @@
+I"¢<section>
+  <div class="container">
+    <div class="row">
+
+      <style>
+
+.space-top {
+  height: 70px;
+}
+
+</style>
+<div class="space-top"></div>
+
+
+    <h4>Contact Us</h4>
+    <hr />
+    <br />
+    <br />
+      <center>
+        <image src="/assets/images/nooficial_yt_logo.png" width="150px"><br />
+
+          <style>
+
+.space-top {
+  height: 70px;
+}
+
+</style>
+<div class="space-top"></div>
+
+
+        <h4>We don't fake it, we just take it</h4><br />
+        <h6><i class="fa fa-github"></i><a href="https://github.com/capeniarol"> capeniarol</a></h6>
+
+          <style>
+
+.space {
+  height: 150px;
+}
+
+</style>
+<div class="space"></div>
+
+</image></center></div></div></section>
+:ET

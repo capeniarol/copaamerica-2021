@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Copa America 2021 Group A Day 4 - Bolivia vs Uruguay - Full Match Online!"
+layout: eldorado
+title: "Copa America 2021 Group A Matchday 4 - Bolivia vs Uruguay - Full Match Online Video!"
 description: "Full Match Online!"
 tags: "copa, america, 2021, bolivia, uruguay, group a, day 4, online, full, match"
 game_started: 2021-06-24T21:00+00:00
@@ -75,7 +75,7 @@ name: "2021-06-24-copa-america-2021-group-a-day-4---bolivia-vs-uruguay---full-ma
   <section>
     <div class="container" style="padding-top: 35px;padding-bottom: 35px;">
       <div class="row">
-        <h4>Copa America 2021 Group A Day 4 - Bolivia vs Uruguay - Full Match Online!</h4><br>
+        <h4>Copa America 2021 Group A Matchday 4 - Bolivia vs Uruguay - Full Match Online Video!</h4><br>
         <p>The game started on <span>Thursday 24/06 21:00 GMT</span><br>
         <a href="//ok.ru/videoembed/2783495981747">watch on OK</a></p>
         <hr>

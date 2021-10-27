@@ -26,29 +26,33 @@
     <style>
 
     #covid19 {
-        background-color: #fff6d5;
+        background-color: #ffeeaa; <!-- #fff6d5 -->
       }
 
     </style>
 
     {% include menu.html %}
 
-    {% include info-banner.html %}
+    <img class="img-fluid" src="/assets/images/flat-banner.png" style="margin-top: 75px;margin-bottom: 0px;">
+
+    <!-- {% include info-banner.html %} -->
 
     <div class="container">
       <div class="row">
 
-        <div class="col-md-2 col-sm">
-          Primera columna más pequeña
+        <div class="col-md-3 col-sm">
+
+          {% include sidebar.html %}
+
         </div>
 
         <div class="col-md-8 col-sm">
           {{ content }}
         </div>
 
-        <div class="col-md-2 col-sm">
+        <!--<div class="col-md-2 col-sm">
           Tercera columna más pequeña
-        </div>
+        </div> -->
 
 
       </div>
