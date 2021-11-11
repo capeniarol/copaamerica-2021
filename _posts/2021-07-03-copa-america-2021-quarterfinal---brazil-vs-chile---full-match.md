@@ -84,24 +84,5 @@ name: "2021-07-03-copa-america-2021-quarterfinal---brazil-vs-chile---full-match.
     </div>
   </section>
 
-<section class="container">
-  <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
-    <div class="col-sm-12" style="background-color: #fff;">
-
-        <tr style="display: inline-block;padding: 5px;">
-
-          <td>
-            <span style="font-weight: 900;display: inline-block;">Share: </span>
-            <hr>
-          </td>
-          <td>
-            <div class="sharethis-inline-share-buttons"></div>
-          </td>
-
-        </tr>
-
-      </div>
-    </div>
-  </section>
 
   {% include space.html %}

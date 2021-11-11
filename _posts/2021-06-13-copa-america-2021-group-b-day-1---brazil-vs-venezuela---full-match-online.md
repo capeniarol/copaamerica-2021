@@ -84,7 +84,7 @@ name: "2021-06-13-copa-america-2021-group-b-day-1---brazil-vs-venezuela---full-m
     </div>
   </section>
 
-<section class="container">
+<!--<section class="container">
   <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
     <div class="col-sm-12" style="background-color: #fff;">
 
@@ -102,6 +102,6 @@ name: "2021-06-13-copa-america-2021-group-b-day-1---brazil-vs-venezuela---full-m
 
       </div>
     </div>
-  </section>
+  </section> -->
 
   {% include space.html %}

@@ -87,25 +87,6 @@ name: "2021-06-24-copa-america-2021-group-b-day-4---brazil-vs-colombia---full-ma
     </div>
   </section>
 
-<section class="container">
-  <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
-    <div class="col-sm-12" style="background-color: #fff;">
-
-        <tr style="display: inline-block;padding: 5px;">
-
-          <td>
-            <span style="font-weight: 900;display: inline-block;">Share: </span>
-            <hr>
-          </td>
-          <td>
-            <div class="sharethis-inline-share-buttons"></div>
-          </td>
-
-        </tr>
-
-      </div>
-    </div>
-  </section>
 
   <div class="fb-comments" data-href="{{ post.url }}" data-width="100%" data-numposts="20"></div>
 

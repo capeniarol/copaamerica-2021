@@ -1,5 +1,5 @@
 ---
-layout: eldorado
+layout: eldorado-squads
 title: Squad Peru
 name: Peru.md
 ---

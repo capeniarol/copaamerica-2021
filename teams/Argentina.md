@@ -1,5 +1,5 @@
 ---
-layout: eldorado
+layout: eldorado-squads
 title: Squad Argentina
 name: Argentina.md
 ---

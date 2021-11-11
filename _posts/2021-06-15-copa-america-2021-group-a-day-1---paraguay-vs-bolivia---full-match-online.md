@@ -84,7 +84,7 @@ name: "2021-06-15-copa-america-2021-group-a-day-1---paraguay-vs-bolivia---full-m
     </div>
   </section>
 
-<section class="container">
+<!--<section class="container">
   <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
     <div class="col-sm-12" style="background-color: #fff;">
 
@@ -102,6 +102,6 @@ name: "2021-06-15-copa-america-2021-group-a-day-1---paraguay-vs-bolivia---full-m
 
       </div>
     </div>
-  </section>
+  </section> -->
 
   {% include space.html %}

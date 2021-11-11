@@ -84,7 +84,7 @@ name: "2021-06-18-copa-america-2021-group-a-day-2---chile-vs-bolivia---full-matc
     </div>
   </section>
 
-<section class="container">
+<!--<section class="container">
   <div class="row" style="padding-top: 30px;padding-bottom: 30px;">
     <div class="col-sm-12" style="background-color: #fff;">
 
@@ -102,6 +102,6 @@ name: "2021-06-18-copa-america-2021-group-a-day-2---chile-vs-bolivia---full-matc
 
       </div>
     </div>
-  </section>
+  </section> -->
 
   {% include space.html %}

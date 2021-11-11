@@ -1,76 +1,96 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-<head>
+  <!DOCTYPE html>
+  <html lang="{{ site.lang | default: "en-US" }}">
+  <head>
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ page.title }} - {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
-  <link
-    rel="stylesheet"
-    href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
-  />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
-  {%- feed_meta -%}
-  {%- seo -%}
-  <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=60ef049c003943001ce6e8b3&product=sop' async='async'></script>
-  <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR6E6LGKR1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
+    />
 
-    gtag('config', 'G-ZR6E6LGKR1');
-  </script>
+    {%- feed_meta -%}
+    {%- seo -%}
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=60ef049c003943001ce6e8b3&product=sop' async='async'></script>
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR6E6LGKR1"></script>
 
-</head>
-  <body>
+    <!-- sharethis buttons -->
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=618aa0355d769200120d3a9c&product=sticky-share-buttons" async="async"></script>
 
-    <style>
+    <!-- google analytics -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-    #covid19 {
-        background-color: #ffeeaa; <!-- #fff6d5 -->
-      }
+      gtag('config', 'G-ZR6E6LGKR1');
+    </script>
 
-    </style>
+  </head>
+    <body>
+      <!--<div class="sharethis-sticky-share-buttons" style="vertical-align: center;"></div>-->
+      <style>
 
-    {% include menu.html %}
+      #covid19 {
+          background-color: #ffeeaa; <!-- #fff6d5 -->
+        }
 
-    <img class="img-fluid" src="/assets/images/flat-banner.png" style="margin-top: 75px;margin-bottom: 0px;">
+      </style>
 
-    <!-- {% include info-banner.html %} -->
+      {% include menu.html %}
 
-    <div class="container">
-      <div class="row">
+      <img class="img-fluid" src="/assets/images/flat-banner.png" style="margin-top: 75px;margin-bottom: 0px;">
 
-        <div class="col-md-3 col-sm">
 
-          {% include sidebar.html %}
+
+      <!-- {% include info-banner.html %} -->
+
+
+      <div class="container">
+        <div class="row">
+
+          <!-- sharethis buttons -->
+          <div class="sharethis-sticky-share-buttons" data-url='https://copaamerica-2021.tk'></div>
+
+          <div class="col-md-3 col-sm">
+
+            {% include sidebar.html %}
+
+          </div>
+
+          <div class="col-md-8 col-sm">
+            {{ content }}
+          </div>
+
+          <!--<div class="col-md-2 col-sm">
+            Tercera columna más pequeña
+          </div> -->
+
 
         </div>
-
-        <div class="col-md-8 col-sm">
-          {{ content }}
-        </div>
-
-        <!--<div class="col-md-2 col-sm">
-          Tercera columna más pequeña
-        </div> -->
-
-
       </div>
-    </div>
 
-    {% include footer.html %}
+      {% include footer.html %}
 
-    <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
-	  <script src="{{'/node_modules/@popperjs/core/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
-	  <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
-  </body>
-</html>
+      <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+  	  <script src="{{'/node_modules/@popperjs/core/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
+  	  <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+    </body>
+  </html>
