@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Us
-description: Aspiramos dejar un legado histórico para siempre en internet de torneos y competencias deportivas
+description: "We ment to leave a page with historical value about the tournament Copa America 2021"
 name: about-us.md
 ---
 
